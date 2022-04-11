@@ -28,7 +28,7 @@ redirect_from:
 
 <section class="more">
 {% if paginator.previous_page %}
-  <h2>Archive Page {{ paginator.page }}</h2>
+  <h2>Arşiv {{ paginator.page }}</h2>
   {% for post in paginator.posts %}
     {% unless post.hidden %}
       {% include featured.html post=post %}
@@ -46,11 +46,11 @@ redirect_from:
 
 <nav class="pagination">
   {% if paginator.previous_page %}
-    <a href="https://tolgaaaltas.com/{{ paginator.previous_page_path }}" class="previous">Yeni</a>
+    <a href="{{ site.baseurl }}/{{ paginator.previous_page_path }}" class="previous">Yeni</a>
   {% endif %}
 
   {% if paginator.next_page %}
-    <a href="https://tolgaaaltas.com/{{ paginator.next_page_path }}" class="next">Eski</a>
+    <a href="{{ site.baseurl }}/{{ paginator.next_page_path }}" class="next">Eski</a>
   {% endif %}
 </nav>
 
