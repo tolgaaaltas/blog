@@ -28,7 +28,7 @@ redirect_from:
 
 <section class="more">
 {% if paginator.previous_page %}
-  <h2>Archive Page {{ paginator.page }}</h2>
+  <h2>Arşiv {{ paginator.page }}</h2>
   {% for post in paginator.posts %}
     {% unless post.hidden %}
       {% include featured.html post=post %}
