@@ -1,7 +1,7 @@
 <div class="social">
 
   <div class="share">
-    <h3>Share</h3>
+    <h3>Paylaş</h3>
     {% assign share-url = page.url | prepend: site.url %}
 
     <a
@@ -40,11 +40,11 @@ function share() {
       text: "{{ page.description }}",
       url: "{{ page.url | prepend: site.baseurl | prepend: site.url }}",
     })
-    .catch((error) => console.log("Error sharing", error));
+    .catch((error) => console.log("Hiçbir şey olmasa bile kesinlikle bir şeyler oldu ve bu gönderiyi paylaşamadık", error));
 
     return false;
   } else {
-    console.log("Sharing not supported; falling back to link");
+    console.log("Paylaşma desteklenmiyor; gönderiye geri dönüver");
     return true;
   }
 }

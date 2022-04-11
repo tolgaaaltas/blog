@@ -2,7 +2,7 @@
 
 <a class="featured{% if post.image %} with-image{% endif %}{% if include.size %} {{ include.size }}{% endif %}" href="{{ post.url | prepend: site.baseurl }}">
   {% if post.image %}
-    <div class="featured-image" alt="Featured image" style="background-image: url({{ post.image }});"></div>
+    <div class="featured-image" alt="Featured image" style="background-image: url(/{{ post.image }});"></div>
   {% endif %}
 
   <header>

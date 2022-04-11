@@ -1,6 +1,6 @@
 ---
 ---
-# Tags
+# Etiketler
 
 <section class="tag-list">
 {% assign tags = site.tags | sort %}

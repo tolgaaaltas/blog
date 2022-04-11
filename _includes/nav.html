@@ -28,8 +28,8 @@
         {% include svg/github.svg %}
       </a></li>
 
-      <li><a href="https://stackoverflow.com/users/{{ site.stackoverflow }}" target="_blank" rel="noopener" title="Stack Overflow">
-        {% include svg/stack-overflow.svg %}
+      <li><a href="https://vero.com/{{ site.stackoverflow }}" target="_blank" rel="noopener" title="Vero">
+        {% include svg/vero.svg %}
       </a></li>
 
       <li><a href="https://www.linkedin.com/in/{{ site.linkedin }}" target="_blank" rel="noopener" title="LinkedIn">
@@ -43,15 +43,15 @@
   </nav>
   <nav class="secondary">
     <div>
-      <a href="{{ site.baseurl }}/tags/#software">Software</a>
-      <a href="{{ site.baseurl }}/tags/#hardware">Hardware</a>
+      <a href="{{ site.baseurl }}/tags/#microsoft">#microsoft</a>
+      <a href="{{ site.baseurl }}/tags/#windows-11">#windows 11</a>
       <a href="{{ site.baseurl }}/tags/#elementary-os">elementary OS</a>
       <a href="{{ site.baseurl }}/tags/#woodworking">Woodworking</a>
     </div>
 
     <div id="search-container" class="hidden">
       {% include svg/edit-find-symbolic.svg %}
-      <input type="text" id="search-input" placeholder="Search Posts…">
+      <input type="text" id="search-input" placeholder="Gönderilerde ara…">
       <ul id="results-container"></ul>
     </div>
 
@@ -64,13 +64,13 @@
         searchInput: document.getElementById('search-input'),
         searchResultTemplate: `<li>
           <a href="{url}">
-            <div class="featured-image" alt="Featured image" style="background-image: url({image});"></div>
+            <div class="featured-image" alt="Featured image" style="background-image: url(/{image});"></div>
             <span id="title">{title}</span>
             <span id="description">{description}</span>
           </a>
         </li>`,
         resultsContainer: document.getElementById('results-container'),
-        noResultsText: ("No Result Found"),
+        noResultsText: ("Hiçbir şey olmasa bile kesinlikle bir şeyler oldu ve aradığını bulamadık."),
         json: '{{ site.baseurl }}/search.json'
       })
     </script>
