@@ -141,6 +141,24 @@ aside {
   margin-bottom: 2em;
 }
 
+.read-more {
+  text-decoration: none;
+}
+
+.read-more::after {
+  color: inherit;
+  content: "→";
+  font-style: normal;
+  font-weight: inherit;
+  padding-left: 0.125em;
+  // position: absolute;
+  transition:padding 0.15s ease-in-out
+}
+
+.read-more:hover::after {
+  padding-left:0.5em
+}
+
 kbd {
   background-color: rgba(200, 200, 200, 0.15);
   border: 1px solid rgba(0, 0, 0, 0.30);
