@@ -35,7 +35,7 @@ redirect_from:
     {% endunless %}
   {% endfor %}
 {% else %}
-  <h2>More Stories</h2>
+  <h2>Diğer Gönderiler</h2>
   {% for post in paginator.posts offset: 4 %}
     {% unless post.hidden %}
       {% include featured.html post=post %}
