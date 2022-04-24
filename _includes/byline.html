@@ -29,7 +29,8 @@
       <span class="description">{{ author.description }}</span>
     {% endif %}
   </div> -->
-  <time class="post-date" datetime="{{ date | date:"%Y-%m-%d" }}">{{ date | date: "%a, %b %e, %Y" }}</time>
+  <time class="post-date" datetime="{{ date | date:"%Y-%m-%d" }}">{{ date | date: "%a, %b %e, %Y" }} </time>
+  <time datetime="{{ post.date | html5date }}">{{ post.date | turkishDate }}</time>
   {% if include.content %}
     {% include read-time.html content=include.content %}
   {% endif %}
