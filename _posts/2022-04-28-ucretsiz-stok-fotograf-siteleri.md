@@ -4,7 +4,7 @@ title:  "Ücretsiz Stock Görsel Bulabileceğiniz Siteler"
 tags: [ kaynak ]
 image: assets/images/stock.png
 ---
-Tasarımda, özellikle ürün tasarımında fotoğraf kullanımı çok önemlidir. Bir web sitesi veya marka materyali hazırlarken tasarımınız ne kadar iyi olursa olsun kullandığınız destekleyici görsel materyaller zayıf olursa tüm kompozisyon kötü bir izlenim bırakacaktır. İnternette çalışmalarınız için ücretli stok görsel bulabileceğiniz pek çok internet sitesi bulunmakta. Bunların büyük bir çoğunluğu hali hazırda oldukça popüler olduğu için insanların aklına ilk olarak bu stok görsel siteleri geliyor.
+Tasarımda, özellikle ürün tasarımında fotoğraf kullanımı çok önemlidir. Bir web sitesi veya marka materyali hazırlarken tasarımınız ne kadar iyi olursa olsun kullandığınız destekleyici görsel materyaller zayıf olduğunda tüm kompozisyon kötü bir izlenim bırakacaktır. İnternette çalışmalarınız için ücretli stok görsel bulabileceğiniz pek çok internet sitesi bulunmakta. Bunların büyük bir çoğunluğu hali hazırda oldukça popüler olduğu için insanların aklına ilk olarak bu stok görsel siteleri geliyor.
 
 Fotoğraf endüstrisinin büyük gelir kapılarından bir tanesi olan stok fotoğrafçılık günümüzde Türkiye’de de artış gösteriyor. Bu nedenle Türkiye’ye ait popüler mekanlar, dekorlar veya insanları barındıran çalışmaları bulmak da artık oldukça kolay. Üstelik bunu siz de kendinize bir gelir kapısı olarak kullanabilirsiniz, tabi bugün konumuz bu değil. Bu yazımda sizlere ücretsiz olarak yararlanabileceğiniz stock fotoğraf kütüphanelerini ve kaynaklarını listeleyeceğim.
 
