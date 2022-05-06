@@ -1,8 +1,8 @@
 ---
 layout: post
 title:  "Analitik araçları sitelerin açılış hızını etkiliyor mu?"
-tags: [ kaynak, embargo ]
-image: assets/images/mac-screen.jpg
+tags: [ kaynak, microsoft ]
+image: assets/images/analytic.jpg
 description: Analitik araçları, web sitelerinin en önemli metriklerinden birisi olan açılış hızını etkiliyor mu? Etkilememesi için neler yapmalısınız? Detaylarıyle beraber kaleme aldım.
 ---
 Arama sonuçlarında iyi bir yer elde etmek için artık içeriğin gücünün yanı sıra kullanıcıya sunduğunuz deneyim de oldukça önemli. Bu noktada Core Web Vitals metriklerini baz almak oldukça önemli. Bu metriklerden en önemlileri arasında site açılış hızı yer alıyor.
