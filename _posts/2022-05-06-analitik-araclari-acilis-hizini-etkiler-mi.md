@@ -13,9 +13,9 @@ Web sitenizdeki etkinlikleri takip edebilmek için ise analitik araçları olduk
 
 Aslında bunu yalnızca analitik araçları ile sınırlamak pek de adil olmayacaktır, farklı bir JavaScript kodu da buna neden olabilir. İşte bu yüzden eklediğiniz üçüncü parti JavaScript araçlarını sitenize eklerken eşzamansız olarak yüklenmesine önem göstermelisiniz. Eğer eşzamanlı ve eşzamansız JavaScript yüklenmesi hakkında bilginiz yoksa izin verin açıklayayım;
 
-*Eşzamanlı kod* ile yüklenme işlemi birer birer gerçekleşir, yani bir önceki yüklenme işlemi tamamlanmadan sonraki JavaScript yüklenmez. Bu da belgelerin tek tek indirilmesine ve açılış hızına olumsuz etkiye dönüşür.
+**Eşzamanlı kod** ile yüklenme işlemi birer birer gerçekleşir, yani bir önceki yüklenme işlemi tamamlanmadan sonraki JavaScript yüklenmez. Bu da belgelerin tek tek indirilmesine ve açılış hızına olumsuz etkiye dönüşür.
 
-*Eşzamansız kod* ile yükleme işlemi, bir önceki işlem bitmeden başlayabilir. Bu sayede birden fazla işlemi aynı anda gerçekleştirebilir ve daha fazla işlemi aynı anda tamamlayabilirsiniz.
+**Eşzamansız kod** ile yükleme işlemi, bir önceki işlem bitmeden başlayabilir. Bu sayede birden fazla işlemi aynı anda gerçekleştirebilir ve daha fazla işlemi aynı anda tamamlayabilirsiniz.
 
 Mevcut olarak ücretsiz analitik araçlarından en popülerleri [Google Anaytics](https://analytics.google.com), [Yandex.Metrica](https://metrica.yandex.com) ve [Microsoft Clarity](https://clarity.microsoft.com). Bunların haricinde ücretli olarak hizmet veren  [Hotjar](https://hotjar.com), [Piwik](https://piwik.pro), [Matomo](https://matomo.org) ve [Plausible](https://plausible.io) var. Ücretsiz servisler elbette size bu hizmetleri ücretsiz verirken aslında sizin misafirlerinizin oluşturduğu veriyi paraya dönüştürebildiği için hizmet sağlıyor. Diğer durumda gizlilik veya daha çeşitli konulara eğilen analitik araçları ücretsiz alternatiflerine göre daha hafifler. Hafif olmaları nedeniyle de sitenizin performansına ciddi anlamda yüklenmiyorlar. Bu tabi ki Google Analytics veya bir diğerini kullanmayı bırakıp ücretli bir servise geçin demek değil, ancak göz atmakta fayda olacaktır.
 
@@ -54,3 +54,15 @@ Sitenizi ziyaret eden kullanıcıların davranışlarını kontrol etmek önemli
 
 ###### Tıklama haritası
 Bu harita tipi misafirlerinizin sayfada nerelere tıklama yaptığını gösterir. Bu sayede call-to-action butonunuza talep olup olmadığını veya makalenizde yer alan bağlantılardan en çok hangileri ile etkişime geçildiği, en çok hangi sayfalara atlama yapıldığını görsel olarak görebilirsiniz. Sayfada yer alan rage tıklamalar, ölü tıklamalar ve benzeri öğeleri tespit etmenize de olanak sağlar.
+
+- **Tüm tıklamalar** kullanıcıların sayfada tıkladığı yeri göster
+- **Kullanım dışı tıklamalar** etkisi olmayan bir sayfadaki tıklamaları göster
+- **Aralık tıklamalar** aynı alanda yinelenen tıklamaları göster, sinirliliği gösterir
+- **İlk tıklamalar** sayfadaki ilk tıklama eylemlerinin toplamını göster
+- **Son tıklamalar** sayfadaki son tıklama eylemlerinin toplamını göster
+
+###### Kaydırma haritası
+Aslında başlık yeterince açık, yine de ifade etmek gerekirse; ziyaretçilerin sayfanın ne kadar derinine gittiğini tespit etmenizi sağlayan bir araçtır. Eğer sayfanızda bir makale varsa kullanıcıların ne kadarının, nereye kadar tutku ile okumaya devam ettiğini göremenize olanak tanır. Bir landing page'iniz varsa misafirlerinizin nereye kadar bilgilere göz atma eğilimi gösterdiğini görmenize imkan sağlar ve sayfa şablonunu bu yönde optimize etmenize olanak tanır.
+
+###### Alan haritası
+Temelde size tıklama haritası ile aynı şeyleri gösterir, ama tüm sayfayı değerlendirmek yerine seçtiğiniz alandaki değerleri sunar. Yine özellikle UI/UX çalışmak için önemli bir araçtır. Örneğin web siteniz iki kolonlu; bir kolonda metin içeriği yer alıyor, diğer kolonda faydalı bağlantılar ve bazı araçlar... Eğer siz faydalı bağlantılar ve bazı araçların olduğu alanı iyileştirmek ve burası ile ilgili metriklere erişmek istiyorsanız alan haritası size doğrudan bunu sunar.
