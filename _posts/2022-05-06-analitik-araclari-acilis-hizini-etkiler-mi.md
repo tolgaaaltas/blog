@@ -60,6 +60,8 @@ Google Analytics, veri anlamında her ne kadar çeşitli ve zengin içerik sunsa
 Anlamlandırılmış verilerden örnek vermek gerekirse "Chrome'dan gelen ziyaretçilerin bir makaleyi baştan sona okuduğu oturumlara sahip olma olasılığı Chrome Mobile'daki kullanıcılara kıyasla 3.5 kat daha fazladır"
 . İşte, gördüğünüz tek mesaj bu, ama bunun arkasında pek çok veri yer alıyor. Bunların arasında okuyucuları gündelik veya ciddi olarak sınıflandırma veya farklı parametreler de yer alıyor. 
 
+![Microsoft Clarity ve Google Analytics](/assets/images/clarity-analytics.jpg)
+
 #### Clarity'nin derinliklerine dalmak
 Her ne kadar Clarity bir analitik aracı olsa da tek işi bu değil. Bunun haricinde özellikle UI/UX geliştiricileri için oturum kayıtları, tık ve ısı haritaları gibi pek çok veri kaynağını da sunuyor. Bunları pek çoğunuz daha önce Hotjar veya Yandex.Metrica ile kullanmışsınızdır eminim ancak ücretsiz bir alternatif olan Clarity'nin yeteneklerine de göz atmak isteyeceksiniz. Şimdi birkaç başlık üzerinden incelemeye devam edelim.
 
