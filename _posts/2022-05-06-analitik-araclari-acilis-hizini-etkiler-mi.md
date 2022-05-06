@@ -12,6 +12,7 @@ Web sitenizdeki etkinlikleri takip edebilmek için ise analitik araçları olduk
 ## Senkron (eşzamanlı) ve Asenkron (eşzamansız) yükleme nedir?
 
 Aslında bunu yalnızca analitik araçları ile sınırlamak pek de adil olmayacaktır, farklı bir JavaScript kodu da buna neden olabilir. İşte bu yüzden eklediğiniz üçüncü parti JavaScript araçlarını sitenize eklerken eşzamansız olarak yüklenmesine önem göstermelisiniz. Eğer eşzamanlı ve eşzamansız JavaScript yüklenmesi hakkında bilginiz yoksa izin verin açıklayayım;
+
 *Eşzamanlı kod* ile yüklenme işlemi birer birer gerçekleşir, yani bir önceki yüklenme işlemi tamamlanmadan sonraki JavaScript yüklenmez. Bu da belgelerin tek tek indirilmesine ve açılış hızına olumsuz etkiye dönüşür.
 
 *Eşzamansız kod* ile yükleme işlemi, bir önceki işlem bitmeden başlayabilir. Bu sayede birden fazla işlemi aynı anda gerçekleştirebilir ve daha fazla işlemi aynı anda tamamlayabilirsiniz.
