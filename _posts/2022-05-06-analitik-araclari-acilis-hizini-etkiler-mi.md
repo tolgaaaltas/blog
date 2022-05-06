@@ -55,14 +55,33 @@ Sitenizi ziyaret eden kullanıcıların davranışlarını kontrol etmek önemli
 ###### Tıklama haritası
 Bu harita tipi misafirlerinizin sayfada nerelere tıklama yaptığını gösterir. Bu sayede call-to-action butonunuza talep olup olmadığını veya makalenizde yer alan bağlantılardan en çok hangileri ile etkişime geçildiği, en çok hangi sayfalara atlama yapıldığını görsel olarak görebilirsiniz. Sayfada yer alan rage tıklamalar, ölü tıklamalar ve benzeri öğeleri tespit etmenize de olanak sağlar.
 
-- **Tüm tıklamalar** kullanıcıların sayfada tıkladığı yeri göster
-- **Kullanım dışı tıklamalar** etkisi olmayan bir sayfadaki tıklamaları göster
+- **Tüm tıklamalar** kullanıcıların sayfada tıkladığı yeri gösterir
+- **Kullanım dışı tıklamalar** etkisi olmayan bir sayfadaki tıklamaları gösterir
 - **Aralık tıklamalar** aynı alanda yinelenen tıklamaları göster, sinirliliği gösterir
-- **İlk tıklamalar** sayfadaki ilk tıklama eylemlerinin toplamını göster
-- **Son tıklamalar** sayfadaki son tıklama eylemlerinin toplamını göster
+- **İlk tıklamalar** sayfadaki ilk tıklama eylemlerinin toplamını gösterir
+- **Son tıklamalar** sayfadaki son tıklama eylemlerinin toplamını gösterir
 
 ###### Kaydırma haritası
 Aslında başlık yeterince açık, yine de ifade etmek gerekirse; ziyaretçilerin sayfanın ne kadar derinine gittiğini tespit etmenizi sağlayan bir araçtır. Eğer sayfanızda bir makale varsa kullanıcıların ne kadarının, nereye kadar tutku ile okumaya devam ettiğini göremenize olanak tanır. Bir landing page'iniz varsa misafirlerinizin nereye kadar bilgilere göz atma eğilimi gösterdiğini görmenize imkan sağlar ve sayfa şablonunu bu yönde optimize etmenize olanak tanır.
 
 ###### Alan haritası
 Temelde size tıklama haritası ile aynı şeyleri gösterir, ama tüm sayfayı değerlendirmek yerine seçtiğiniz alandaki değerleri sunar. Yine özellikle UI/UX çalışmak için önemli bir araçtır. Örneğin web siteniz iki kolonlu; bir kolonda metin içeriği yer alıyor, diğer kolonda faydalı bağlantılar ve bazı araçlar... Eğer siz faydalı bağlantılar ve bazı araçların olduğu alanı iyileştirmek ve burası ile ilgili metriklere erişmek istiyorsanız alan haritası size doğrudan bunu sunar.
+
+##### Oturum kayıtları
+Oturum kayıtlarının mantığı oldukça basittir, kullanıcın sayfadaki deneyimini birebir takip etmenizi sağlar. Sayfayı önceden ziyaret etmiş olan misafirin imleç hareketlerini ve form alanları ile etkileşime geçme verilerini doğrudan kaydeden bu özellik, size misafirin hassas bilgilerini iletmeden tekrar izleme fırsatı sunar. Bu sayede çalışmayan veya kullanıcı deneyimini olumsuz etkileyen durumları kolayca tespit etmeniz mümkün hale gelir. Yine burada rage tıklamalar, ölü tıklamalar gibi filtreleri kullanmak mümkün. Bu sayede doğrudan çözmek istediğiniz sorunları hızlıca tespit edebilir ve bu konular üzerine yoğunlaşabilirsiniz. Bu konuda Clarity'nin hakkını yememek gerekiyor, sunduğu 25'ten fazla filtre ile size nokta atışı sorunları tespit etmenizde büyük rol üstleniyor. Bu alanın Google Analytics ile entegrasyonu olduğunu da söylemek artı olacaktır.
+
+##### İçgörüler
+Kullanıcı deneyimini etkileyen belli başlı konular vardır. Bunlara aslında yazının daha önceki kısımlarında biraz değinmiş olduk; rage (tekrar tekrar) tıklamalar, ölü (geçersiz) tıklamalar ve mevcut sayfadan hızlıca önceki sayfaya dönmek. Bunlar, sayfanızı ziyaret eden kişinin aradığını bulamama veya daha fazlasına ihtiyaç duyduğunu gösteren bazı metrikler. 
+
+Bir de bunların haricinde teknik hatalar olabiliyor. İçgörüler bu konuda da yardımcı oluyor, JavaScript veya görsel hatalar meydana geldiğinde bunları, sistem üzerinde yer alan filtreleri kullanarak kolayca tespit edebiliyor ve hatanın nerede meydana geldiğini buluyorsunuz. Ardından çözmek elbette size kalıyor tabi. Yine de araştırma ve tespit adımlarını Clarity sizin için o kadar hızlandırıyor ki, kritik hataları bile kolayca tespit etmenize olanak sağlıyor.
+
+##### Google Analytics entegrasyonu
+Microsoft Clarity'nin iyi bir araç olsa da ham veri açısından Google Analytics ile karşılaştırılmaması gerektiğinden yazının önceki kısımlarında bahasettim. Servisin eksik kısmını bilmek güzel, ancak onu güçlendirmek de sizin elinizde. Hali hazırda Google Analytics kullanıyorsanız, sitenize ait Analytics verileri ile Clarity'i zenginleştirmeniz de bir o kadar kolay. Tek yapmanız gereken Clarity içerisinden Google Analytics hesabınızı ilişkilendirmeniz. Üstelik bu entegrasyon tek yönlü değil, çift yönlü çalışıyor.
+
+Google Analytics'te oluşturduğunuz bir segment grubunun sitenizdeki davranışlarını takip etmek istiyorsanız, Clarity içerisindeki Kayıtlar sayfasından ilgili segmentin sonuçlarını görüntüleyebilirsiniz. Bu sayede hedef kitlenize yönelik iyileştirmeler ve hata tespitleri üzerinde çalışmanız mümkün olur.
+
+Bu entegrasyon sayesinde yalnızca Google Analytics verilerini Microsoft Clarity'e değil, aynı zamanda Clarity verilerini Analytics'e de aktarmış oluyorsunuz. Örnek vermek gerekirse Universal Analytics kullandığınız bir mülkte Davranışlar altından Clarity'nin oturum kayıtlarına doğrudan erişebilirsiniz.
+
+Clarity'nin Google Analytics entegrasyonu ile yaptığı tek şey bunlarla sınırlı değil. Google Analytics ile toplanmış hedef kitlenize genel bakış, popüler sayfalarınız, ülke ve cihaza göre oturumları da Clarity panelinin içerisinden görüntüleyebilirsiniz.
+
+Her iki servisin en iyi özelliklerini kullanarak hedeflerinize ulaşmaya çalışın. Örneğin bir landing pageiniz var ve buradan sayfayı ziyaret eden misafirlerinizin bir belgeyi indirmesini istiyorsunuz. Hedefinize ait verileri Google Analytics toplarken bunları görselleştiremediğinden dolayı kullanıcıyı caydıran nedenleri tespit etmeniz her zaman kolay olmayacaktır. Microsoft Clarity'nin oturum kaydetme özelliği ile bu hedefi tamamlamayan ziyaretçilerin oturumlarını izleyebilir ve onların bu hedefi tamamlamamalarındaki motivasyonu tespit edebilirsiniz. Bu verilerin entegre olması için herhangi bir özel ayar yapmanıza gerek yok, hepsi otomatik gerçekleşiyor.
