@@ -7,15 +7,29 @@ description: Analitik araçları, web sitelerinin en önemli metriklerinden biri
 ---
 Arama sonuçlarında iyi bir yer elde etmek için artık içeriğin gücünün yanı sıra kullanıcıya sunduğunuz deneyim de oldukça önemli. Bu noktada Core Web Vitals metriklerini baz almanız gerekiyor. Bu metriklerden en önemlileri arasında site açılış hızı yer alıyor.
 
-Web sitenizdeki etkinlikleri takip edebilmek için ise analitik araçları oldukça önemli bir yer kaplıyor, takip verilerinin doğru çalışması için mümkün olduğunda üstte yer alması tavsiye ediliyor. Sayfa yüklenme işlemi bildiğiniz gibi bir kağıt okurken nasıl tepeden aşağıya iniyorsak aynı o şekilde gerçekleşyor. İşte burada üçüncü parti takip araçlarının araya girmesi yüklenme (toplam) süresini temelde etkileyebiliyor.
+Web sitenizdeki etkinlikleri takip edebilmek için ise analitik araçları oldukça önemli bir yere sahip, takip verilerinin doğru çalışması için mümkün olduğunca üstte yer alması tavsiye ediliyor. Sayfa yüklenme işlemi bildiğiniz gibi bir kağıt okurken nasıl tepeden aşağıya iniyorsak aynı o şekilde gerçekleşyor. İşte burada üçüncü parti takip araçlarının araya girmesi yüklenme (toplam) süresini temelde etkilemekte.
 
 ## Senkron (eşzamanlı) ve Asenkron (eşzamansız) yükleme nedir?
 
-Aslında bunu yalnızca analitik araçları ile sınırlamak pek de adil olmayacaktır, farklı bir JavaScript kodu da buna neden olabilir. İşte bu yüzden eklediğiniz üçüncü parti JavaScript araçlarını sitenize eklerken eşzamansız olarak yüklenmesine önem göstermelisiniz. Eğer eşzamanlı ve eşzamansız JavaScript yüklenmesi hakkında bilginiz yoksa izin verin açıklayayım;
+Aslında bunu yalnızca analitik araçları ile sınırlamak pek de adil olmayacaktır, üçüncü parti bir JavaScript kodu da buna neden olabilir. İşte bu yüzden eklediğiniz üçüncü parti JavaScript araçlarını sitenize eklerken eşzamansız olarak yüklenmesine önem göstermelisiniz. Eğer eşzamanlı ve eşzamansız JavaScript yüklenmesi hakkında bilginiz yoksa izin verin açıklayayım;
 
 **Eşzamanlı kod** ile yüklenme işlemi birer birer gerçekleşir, yani bir önceki yüklenme işlemi tamamlanmadan sonraki JavaScript yüklenmez. Bu da belgelerin tek tek indirilmesine ve açılış hızına olumsuz etkiye dönüşür.
 
-**Eşzamansız kod** ile yükleme işlemi, bir önceki işlem bitmeden başlayabilir. Bu sayede birden fazla işlemi aynı anda gerçekleştirebilir ve daha fazla işlemi aynı anda tamamlayabilirsiniz.
+**Eşzamansız kod** ile yükleme işlemi, bir önceki işlem bitmeden başlayabilir. Bu sayede birden fazla işlemi aynı anda gerçekleştirebilir ve daha fazla işlemi aynı anda tamamlayabilirsiniz ve kod hemen çalışmaya başlar.
+
+**Ertelemeli kod** ile (async olmadan) JavaScript ile sayfa paralel olarak iner ve sayfa tamamen yüklendikten sonra çalışmaya başlar.
+
+**Hiçbiri yoksa** ile (asnyc ve defer) komut dosyaları iner, hemen çalışır, ama komut dosyası inene kadar bir sonraki öğenin yüklenmesini engeller.
+
+Örnek JavaScript kodu:
+'''
+<script src="ornek.js"></script>
+'''
+
+Eşzamansız JavaScript kodu:
+'''
+<script src="async_ornek.js" async></script>
+'''
 
 Mevcut olarak ücretsiz analitik araçlarından en popülerleri [Google Anaytics](https://analytics.google.com), [Yandex.Metrica](https://metrica.yandex.com) ve [Microsoft Clarity](https://clarity.microsoft.com). Bunların haricinde ücretli olarak hizmet veren  [Hotjar](https://hotjar.com), [Piwik](https://piwik.pro), [Matomo](https://matomo.org) ve [Plausible](https://plausible.io) var. Ücretsiz servisler elbette size bu hizmetleri ücretsiz verirken aslında sizin misafirlerinizin oluşturduğu veriyi paraya dönüştürebildiği için hizmet sağlıyor. Diğer durumda gizlilik veya daha çeşitli konulara eğilen analitik araçları ücretsiz alternatiflerine göre daha hafifler. Hafif olmaları nedeniyle de sitenizin performansına ciddi anlamda yüklenmiyorlar. Bu tabi ki Google Analytics veya bir diğerini kullanmayı bırakıp ücretli bir servise geçin demek değil, ancak göz atmakta fayda olacaktır.
 
