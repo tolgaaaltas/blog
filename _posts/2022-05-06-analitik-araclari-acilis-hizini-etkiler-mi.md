@@ -25,7 +25,7 @@ Microsoft'un çok da bilinir olmayan bu analitik hizmeti, sahip olduğu Google A
 
 Üstelik yazının özüne dönecek olursak bu üç popüler ücretsiz analitik servisinin arasında Microsoft Clarity en hafif performansı gösteren araç. Verileri paylaşmak gerekirse aşağıdan bulabilirsiniz.
 
-| Web Sitesi | Konum | Günlük oturum | Toplam engelleme süresi (ms) | Uzun Görevler |  İndirilen komut dosyası boyutu (byte) 
+| Web Sitesi | Konum | Günlük oturum | Toplam engelleme süresi (ms) | Uzun Görevler |  İndirilen komut dosyası boyutu (byte) |
 |----------------------------------------------------------|--------------|----------|
 | Çevrimiçi Bankacılık | Brezilya | 0.6m | 0 | 0 | 25113 |
 | Hava Durumu | Brezilya | 1.2m | 0 | 0 | 25741 |
