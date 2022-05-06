@@ -25,13 +25,14 @@ Microsoft'un çok da bilinir olmayan bu analitik hizmeti, sahip olduğu Google A
 
 Üstelik yazının özüne dönecek olursak bu üç popüler ücretsiz analitik servisinin arasında Microsoft Clarity en hafif performansı gösteren araç. Verileri paylaşmak gerekirse aşağıdan bulabilirsiniz.
 
-| Web Sitesi | Konum | Günlük oturum | Toplam engelleme süresi (ms) | Uzun Görevler |  İndirilen komut dosyası boyutu (byte) |
-|----------------------------------------------------------|--------------|----------|
+| Web Sitesi | Konum | Günlük oturum | Toplam engelleme süresi (ms) | Uzun Görevler | İndirilen komut dosyası boyutu (byte) |
+|------------|---------------|-----------|--------------------|--------------|----------|
 | Çevrimiçi Bankacılık | Brezilya | 0.6m | 0 | 0 | 25113 |
 | Hava Durumu | Brezilya | 1.2m | 0 | 0 | 25741 |
 | Çevrimiçi Bankacılık | Arjantin | 0.3m | 0 | 1 | 25639 |
 | Müzik Paylaşımı | Güney Kore | 0.1m | 0 | 2 | 25962 |
 | Araç Kiralama | Çek Cumhuriyeti | 0.1m | 0 | 1 | 25218 |
+
 _[Kaynak belge](https://clarity.microsoft.com/blog/does-clarity-affect-website-performance/)_
 
 ### Google Analytics ve Microsoft Clarity entegrasyonu neler sunuyor?
