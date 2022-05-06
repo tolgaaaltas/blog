@@ -22,14 +22,14 @@ Aslında bunu yalnızca analitik araçları ile sınırlamak pek de adil olmayac
 **Hiçbiri yoksa** ile (asnyc ve defer) komut dosyaları iner, hemen çalışır, ama komut dosyası inene kadar bir sonraki öğenin yüklenmesini engeller.
 
 Örnek JavaScript kodu:
-'''
+```
 <script src="ornek.js"></script>
-'''
+```
 
 Eşzamansız JavaScript kodu:
-'''
+```
 <script src="async_ornek.js" async></script>
-'''
+```
 
 Mevcut olarak ücretsiz analitik araçlarından en popülerleri [Google Anaytics](https://analytics.google.com), [Yandex.Metrica](https://metrica.yandex.com) ve [Microsoft Clarity](https://clarity.microsoft.com). Bunların haricinde ücretli olarak hizmet veren  [Hotjar](https://hotjar.com), [Piwik](https://piwik.pro), [Matomo](https://matomo.org) ve [Plausible](https://plausible.io) var. Ücretsiz servisler elbette size bu hizmetleri ücretsiz verirken aslında sizin misafirlerinizin oluşturduğu veriyi paraya dönüştürebildiği için hizmet sağlıyor. Diğer durumda gizlilik veya daha çeşitli konulara eğilen analitik araçları ücretsiz alternatiflerine göre daha hafifler. Hafif olmaları nedeniyle de sitenizin performansına ciddi anlamda yüklenmiyorlar. Bu tabi ki Google Analytics veya bir diğerini kullanmayı bırakıp ücretli bir servise geçin demek değil, ancak göz atmakta fayda olacaktır.
 
