@@ -5,7 +5,7 @@ tags: [ kaynak, microsoft ]
 image: assets/images/analytic.jpg
 description: Analitik araçları, web sitelerinin en önemli metriklerinden birisi olan açılış hızını etkiliyor mu? Etkilememesi için neler yapmalısınız? Detaylarıyle beraber kaleme aldım.
 ---
-Arama sonuçlarında iyi bir yer elde etmek için artık içeriğin gücünün yanı sıra kullanıcıya sunduğunuz deneyim de oldukça önemli. Bu noktada Core Web Vitals metriklerini baz almak oldukça önemli. Bu metriklerden en önemlileri arasında site açılış hızı yer alıyor.
+Arama sonuçlarında iyi bir yer elde etmek için artık içeriğin gücünün yanı sıra kullanıcıya sunduğunuz deneyim de oldukça önemli. Bu noktada Core Web Vitals metriklerini baz almanız gerekiyor. Bu metriklerden en önemlileri arasında site açılış hızı yer alıyor.
 
 Web sitenizdeki etkinlikleri takip edebilmek için ise analitik araçları oldukça önemli bir yer kaplıyor, takip verilerinin doğru çalışması için mümkün olduğunda üstte yer alması tavsiye ediliyor. Sayfa yüklenme işlemi bildiğiniz gibi bir kağıt okurken nasıl tepeden aşağıya iniyorsak aynı o şekilde gerçekleşyor. İşte burada üçüncü parti takip araçlarının araya girmesi yüklenme sürecini temelde etkileyebiliyor.
 
@@ -17,6 +17,8 @@ Aslında bunu yalnızca analitik araçları ile sınırlamak pek de adil olmayac
 *Eşzamansız kod* ile yükleme işlemi, bir önceki işlem bitmeden başlayabilir. Bu sayede birden fazla işlemi aynı anda gerçekleştirebilir ve daha fazla işlemi aynı anda tamamlayabilirsiniz.
 
 Mevcut olarak ücretsiz analitik araçlarından en popülerleri [Google Anaytics](https://analytics.google.com), [Yandex.Metrica](https://metrica.yandex.com) ve [Microsoft Clarity](https://clarity.microsoft.com). Bunların haricinde ücretli olarak hizmet veren  [Hotjar](https://hotjar.com), [Piwik](https://piwik.pro), [Matomo](https://matomo.org) ve [Plausible](https://plausible.io) var. Ücretsiz servisler elbette size bu hizmetleri ücretsiz verirken aslında sizin misafirlerinizin oluşturduğu veriyi paraya dönüştürebildiği için hizmet sağlıyor. Diğer durumda gizlilik veya daha çeşitli konulara eğilen analitik araçları ücretsiz alternatiflerine göre daha hafifler. Hafif olmaları nedeniyle de sitenizin performansına ciddi anlamda yüklenmiyorlar. Bu tabi ki Google Analytics veya bir diğerini kullanmayı bırakıp ücretli bir servise geçin demek değil, ancak göz atmakta fayda olacaktır.
+
+Eğer asenkron yükleme ile ilgili teknik detaylarla uğraşmak istemiyorsanız [Google Tag Manager](https://tagmanager.google.com/#/home) kullanabilirsiniz. GTM, varsayılan olarak JavaScript'leri asnyc olarak yükler, böylece sizin herhangi bir düzenleme yapma ihtiyacınız ortadan kalkar. Google Tag Manager'ın kendisi eşzamansız olduğu için çektiği tüm JavaScript'ler de buna bağlı olarak yüklenir.
 
 ## Hangi ücretsiz analitik araçlarını tercih etmeliyim?
 Açıkçası elinizdeki veri kaynağı ne kadar çok olursa o kadar iyi, böylece kaynaklarınızın doğruluğunu ve ne kadar iyi ölçüm yapabildiklerini test etme imkanınız olur. Oluşturacağınız projeye göre ilerde bazılarını elemeye başlayabilirsiniz. Ancak entegrasyon açısından Google Analytics ve Microsoft Clarity duruma farklı bir boyut kazandırıyor.
