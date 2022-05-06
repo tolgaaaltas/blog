@@ -48,3 +48,9 @@ Anlamlandırılmış verilerden örnek vermek gerekirse "Chrome'dan gelen ziyare
 
 #### Clarity'nin derinliklerine dalmak
 Her ne kadar Clarity bir analitik aracı olsa da tek işi bu değil. Bunun haricinde özellikle UI/UX geliştiricileri için oturum kayıtları, tık ve ısı haritaları gibi pek çok veri kaynağını da sunuyor. Bunları pek çoğunuz daha önce Hotjar veya Yandex.Metrica ile kullanmışsınızdır eminim ancak ücretsiz bir alternatif olan Clarity'nin yeteneklerine de göz atmak isteyeceksiniz. Şimdi birkaç başlık üzerinden incelemeye devam edelim.
+
+##### Isı haritaları
+Sitenizi ziyaret eden kullanıcıların davranışlarını kontrol etmek önemlidir. Her ne kadar küçük işletmeler ve yeni başlayanlar için pek bir anlam ifade etmese de profesyonelliğe atılan ilk adımlardan birisi misafirlerinizi takip etmek ve onların nerelerde takıldığını analiz etmektir. Sadece bu amaçla değil, A/B testlerinizin başarılılığını da takip etmeniz açısından bir sonuç sunabilir. Isı haritaları farklı öğelere ayrılmakta, bu sayede farklı bilgileri edinmek için farklı haritalara göz atabilirsiniz.
+
+###### Tıklama haritası
+Bu harita tipi misafirlerinizin sayfada nerelere tıklama yaptığını gösterir. Bu sayede call-to-action butonunuza talep olup olmadığını veya makalenizde yer alan bağlantılardan en çok hangileri ile etkişime geçildiği, en çok hangi sayfalara atlama yapıldığını görsel olarak görebilirsiniz. Sayfada yer alan rage tıklamalar, ölü tıklamalar ve benzeri öğeleri tespit etmenize de olanak sağlar.
