@@ -7,7 +7,7 @@ description: Analitik araçları, web sitelerinin en önemli metriklerinden biri
 ---
 Arama sonuçlarında iyi bir yer elde etmek için artık içeriğin gücünün yanı sıra kullanıcıya sunduğunuz deneyim de oldukça önemli. Bu noktada Core Web Vitals metriklerini baz almanız gerekiyor. Bu metriklerden en önemlileri arasında site açılış hızı yer alıyor.
 
-Web sitenizdeki etkinlikleri takip edebilmek için ise analitik araçları oldukça önemli bir yer kaplıyor, takip verilerinin doğru çalışması için mümkün olduğunda üstte yer alması tavsiye ediliyor. Sayfa yüklenme işlemi bildiğiniz gibi bir kağıt okurken nasıl tepeden aşağıya iniyorsak aynı o şekilde gerçekleşyor. İşte burada üçüncü parti takip araçlarının araya girmesi yüklenme sürecini temelde etkileyebiliyor.
+Web sitenizdeki etkinlikleri takip edebilmek için ise analitik araçları oldukça önemli bir yer kaplıyor, takip verilerinin doğru çalışması için mümkün olduğunda üstte yer alması tavsiye ediliyor. Sayfa yüklenme işlemi bildiğiniz gibi bir kağıt okurken nasıl tepeden aşağıya iniyorsak aynı o şekilde gerçekleşyor. İşte burada üçüncü parti takip araçlarının araya girmesi yüklenme (toplam) süresini temelde etkileyebiliyor.
 
 ## Senkron (eşzamanlı) ve Asenkron (eşzamansız) yükleme nedir?
 
