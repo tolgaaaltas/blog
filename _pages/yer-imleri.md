@@ -29,6 +29,7 @@ Bu sayfada hem kendim için hem de takipçilerim için faydalı olabileceğini d
 ## Ocak 2022
 - [Colourpalette](https://colourpalette.xyz)
 
+>!
 ## Aralık 2021
 - [Customizing Colors - Tailwind 3](https://tailwindcss.com/docs/customizing-colors)
 
@@ -66,3 +67,4 @@ Bu sayfada hem kendim için hem de takipçilerim için faydalı olabileceğini d
 - [How to create a BIMI record](https://www.dmarcanalyzer.com/bimi/how-to-create-a-bimi-record/)
 - [Grilli Type](https://www.grillitype.com)
 - [Farklı Düşün](https://farkli-dusun.simplecast.com/)
+!<
