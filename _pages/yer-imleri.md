@@ -18,6 +18,8 @@ Bu sayfada hem kendim için hem de takipçilerim için faydalı olabileceğini d
 - [Create Video](https://www.create.video)
 - [share.dev](https://share.dev)
 - [manojVivek/medium-unlimited](https://github.com/manojVivek/medium-unlimited)
+- [beam](https://beamapp.co)
+- [Reflect](https://reflect.app/home)
 
 ## Nisan 2022
 - [Pigmnts](https://pigmnts.web.app/)
