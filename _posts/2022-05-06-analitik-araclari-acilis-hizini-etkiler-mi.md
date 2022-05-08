@@ -19,7 +19,7 @@ Aslında bunu yalnızca analitik araçları ile sınırlamak pek de adil olmayac
 
 **Ertelemeli kod** ile (async olmadan) JavaScript ile sayfa paralel olarak iner ve sayfa tamamen yüklendikten sonra çalışmaya başlar.
 
-**Hiçbiri yoksa** ile (asnyc ve defer) komut dosyaları iner, hemen çalışır, ama komut dosyası inene kadar bir sonraki öğenin yüklenmesini engeller.
+**Hiçbiri yoksa** ile (async ve defer) komut dosyaları iner, hemen çalışır, ama komut dosyası inene kadar bir sonraki öğenin yüklenmesini engeller.
 
 Örnek JavaScript kodu:
 ```
