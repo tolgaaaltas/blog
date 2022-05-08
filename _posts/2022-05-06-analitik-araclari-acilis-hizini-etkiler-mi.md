@@ -15,9 +15,9 @@ Aslında bunu yalnızca analitik araçları ile sınırlamak pek de adil olmayac
 
 **Eşzamanlı kod** ile (async ve defer yoksa) yüklenme işlemi birer birer gerçekleşir, yani bir önceki yüklenme işlemi tamamlanmadan sonraki JavaScript yüklenmez. Bu da belgelerin tek tek indirilmesine ve açılış hızına olumsuz etkiye dönüşür.
 
-**Eşzamansız kod** ile yükleme işlemi, bir önceki işlem bitmeden başlayabilir. Bu sayede birden fazla işlemi aynı anda gerçekleştirebilir ve daha fazla işlemi aynı anda tamamlayabilirsiniz ve kod hemen çalışmaya başlar.
+**Eşzamansız kod (`async`)** ile yükleme işlemi, bir önceki işlem bitmeden başlayabilir. Bu sayede birden fazla işlemi aynı anda gerçekleştirebilir ve daha fazla işlemi aynı anda tamamlayabilirsiniz ve kod hemen çalışmaya başlar.
 
-**Ertelemeli kod** ile (async olmadan) JavaScript ile sayfa paralel olarak iner ve sayfa tamamen yüklendikten sonra çalışmaya başlar.
+**Ertelemeli kod (`defer`)** ile (`async` olmadan) JavaScript ile sayfa paralel olarak iner ve sayfa tamamen yüklendikten sonra çalışmaya başlar.
 
 Örnek JavaScript kodu:
 ```
