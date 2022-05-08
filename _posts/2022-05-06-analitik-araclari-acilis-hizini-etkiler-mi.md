@@ -29,12 +29,12 @@ Eşzamansız JavaScript kodu:
 <script src="async_ornek.js" async></script>
 ```
 
-### Neden analitik kodlarında defer kullanmamalısınız?
-Defer biraz önce açıkladığım gibi sayfa tamamen yüklendikten sonra devreye girer, bu da analitik araçlarının sayfa tamamen yüklenmeden herhangi bir metrik toplayamamasına neden olur. Aracı oluşturan üçüncü parti servislerin temelde kodun mümkün olan en yüksek yere eklenmesini talep etmelerinin nedeni yüklenme işleminin en kısa sürede tamamlanması ve mümkün olan en kısa sürede metrik toplamaya başlamasıdır. `defer` belki sohbet araçları için mantıklı bir metot olabilir ancak analitik araçları için özellikle `async` kullanmanız tavsiye edilir.
-
 Mevcut olarak ücretsiz analitik araçlarından en popülerleri [Google Anaytics](https://analytics.google.com), [Yandex.Metrica](https://metrica.yandex.com) ve [Microsoft Clarity](https://clarity.microsoft.com). Bunların haricinde ücretli olarak hizmet veren  [Hotjar](https://hotjar.com), [Piwik](https://piwik.pro), [Matomo](https://matomo.org) ve [Plausible](https://plausible.io) var. Ücretsiz servisler elbette size bu hizmetleri ücretsiz verirken aslında sizin misafirlerinizin oluşturduğu veriyi paraya dönüştürebildiği için hizmet sağlıyor. Diğer durumda gizlilik veya daha çeşitli konulara eğilen analitik araçları ücretsiz alternatiflerine göre daha hafifler. Hafif olmaları nedeniyle de sitenizin performansına ciddi anlamda yüklenmiyorlar. Bu tabi ki Google Analytics veya bir diğerini kullanmayı bırakıp ücretli bir servise geçin demek değil, ancak göz atmakta fayda olacaktır.
 
 Eğer asenkron yükleme ile ilgili teknik detaylarla uğraşmak istemiyorsanız [Google Tag Manager](https://tagmanager.google.com/#/home) kullanabilirsiniz. GTM, varsayılan olarak JavaScript'leri asnyc olarak yükler, böylece sizin herhangi bir düzenleme yapma ihtiyacınız ortadan kalkar. Google Tag Manager'ın kendisi eşzamansız olduğu için çektiği tüm JavaScript'ler de buna bağlı olarak yüklenir.
+
+### Neden analitik kodlarında defer kullanmamalısınız?
+Defer biraz önce açıkladığım gibi sayfa tamamen yüklendikten sonra devreye girer, bu da analitik araçlarının sayfa tamamen yüklenmeden herhangi bir metrik toplayamamasına neden olur. Aracı oluşturan üçüncü parti servislerin temelde kodun mümkün olan en yüksek yere eklenmesini talep etmelerinin nedeni yüklenme işleminin en kısa sürede tamamlanması ve mümkün olan en kısa sürede metrik toplamaya başlamasıdır. `defer` belki sohbet araçları için mantıklı bir metot olabilir ancak analitik araçları için özellikle `async` kullanmanız tavsiye edilir.
 
 ## Hangi ücretsiz analitik araçlarını tercih etmeliyim?
 Açıkçası elinizdeki veri kaynağı ne kadar çok olursa o kadar iyi, böylece kaynaklarınızın doğruluğunu ve ne kadar iyi ölçüm yapabildiklerini test etme imkanınız olur. Oluşturacağınız projeye göre ilerde bazılarını elemeye başlayabilirsiniz. Ancak entegrasyon açısından Google Analytics ve Microsoft Clarity duruma farklı bir boyut kazandırıyor.
