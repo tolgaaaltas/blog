@@ -13,13 +13,11 @@ Web sitenizdeki etkinlikleri takip edebilmek için ise analitik araçları olduk
 
 Aslında bunu yalnızca analitik araçları ile sınırlamak pek de adil olmayacaktır, üçüncü parti bir JavaScript kodu da buna neden olabilir. İşte bu yüzden eklediğiniz üçüncü parti JavaScript araçlarını sitenize eklerken eşzamansız olarak yüklenmesine önem göstermelisiniz. Eğer eşzamanlı ve eşzamansız JavaScript yüklenmesi hakkında bilginiz yoksa izin verin açıklayayım;
 
-**Eşzamanlı kod** ile yüklenme işlemi birer birer gerçekleşir, yani bir önceki yüklenme işlemi tamamlanmadan sonraki JavaScript yüklenmez. Bu da belgelerin tek tek indirilmesine ve açılış hızına olumsuz etkiye dönüşür.
+**Eşzamanlı kod** ile (async ve defer yoksa) yüklenme işlemi birer birer gerçekleşir, yani bir önceki yüklenme işlemi tamamlanmadan sonraki JavaScript yüklenmez. Bu da belgelerin tek tek indirilmesine ve açılış hızına olumsuz etkiye dönüşür.
 
 **Eşzamansız kod** ile yükleme işlemi, bir önceki işlem bitmeden başlayabilir. Bu sayede birden fazla işlemi aynı anda gerçekleştirebilir ve daha fazla işlemi aynı anda tamamlayabilirsiniz ve kod hemen çalışmaya başlar.
 
 **Ertelemeli kod** ile (async olmadan) JavaScript ile sayfa paralel olarak iner ve sayfa tamamen yüklendikten sonra çalışmaya başlar.
-
-**Hiçbiri yoksa** ile (async ve defer) komut dosyaları iner, hemen çalışır, ama komut dosyası inene kadar bir sonraki öğenin yüklenmesini engeller.
 
 Örnek JavaScript kodu:
 ```
