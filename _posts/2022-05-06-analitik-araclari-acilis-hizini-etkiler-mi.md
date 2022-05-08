@@ -31,7 +31,7 @@ Eşzamansız JavaScript kodu:
 <script src="async_ornek.js" async></script>
 ```
 
-### Neden analitik kodlarında defer kullanmamalıyım?
+### Neden analitik kodlarında defer kullanmamalısınız?
 Defer biraz önce açıkladığım gibi sayfa tamamen yüklendikten sonra devreye girer, bu da analitik araçlarının sayfa tamamen yüklenmeden herhangi bir metrik toplayamamasına neden olur. Aracı oluşturan üçüncü parti servislerin temelde kodun mümkün olan en yüksek yere eklenmesini talep etmelerinin nedeni yüklenme işleminin en kısa sürede tamamlanması ve mümkün olan en kısa sürede metrik toplamaya başlamasıdır. `defer` belki sohbet araçları için mantıklı bir metot olabilir ancak analitik araçları için özellikle `async` kullanmanız tavsiye edilir.
 
 Mevcut olarak ücretsiz analitik araçlarından en popülerleri [Google Anaytics](https://analytics.google.com), [Yandex.Metrica](https://metrica.yandex.com) ve [Microsoft Clarity](https://clarity.microsoft.com). Bunların haricinde ücretli olarak hizmet veren  [Hotjar](https://hotjar.com), [Piwik](https://piwik.pro), [Matomo](https://matomo.org) ve [Plausible](https://plausible.io) var. Ücretsiz servisler elbette size bu hizmetleri ücretsiz verirken aslında sizin misafirlerinizin oluşturduğu veriyi paraya dönüştürebildiği için hizmet sağlıyor. Diğer durumda gizlilik veya daha çeşitli konulara eğilen analitik araçları ücretsiz alternatiflerine göre daha hafifler. Hafif olmaları nedeniyle de sitenizin performansına ciddi anlamda yüklenmiyorlar. Bu tabi ki Google Analytics veya bir diğerini kullanmayı bırakıp ücretli bir servise geçin demek değil, ancak göz atmakta fayda olacaktır.
