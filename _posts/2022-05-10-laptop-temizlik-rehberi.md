@@ -68,8 +68,12 @@ Temizlik için dilerseniz alüminyum cilası kullanabilirsiniz ancak muhtemelen 
 Dizüstü bilgisayarınızın temizliğine dikkat etmek istiyorsanız öncelikle kendi kişisel hijyeninize dikkat etmeniz gerektiğini unutmayın, çünkü kişisel bilgisayarınızla en çok etkileşime geçen aslında sizden başkası değil. İşte dikkat etmeniz gereken kişisel bakım yöntemleri.
 
 **Ellerinizi yıkayın:** Kulağa komik ve basit gelse de daha önce rehberde bahsettiğim gibi bilgisayarınızla en çok elleriniz ile etkileşime geçersiniz. Bu nedenle ellerinizin temiz olması, kişisel bilgisayarınızı da temiz tutacaktır. Temiz eller, temiz klavye demektir.
+
 **Bilgisayar başında yemek yemeyin:** Maktul kirli bir bilgisayar ise suçlulardan birisi de yemeklerdir. Dizüstü bilgisayarınızın yakınında yemek yemeyin. Klavye altına giren pislikler ve ekran lekelerinin büyük bir kısmı yemek tüketimi esnasında meydana gelin. Eğer bu tavsiyeye dikkat ederseniz farkı göreceğinizden eminim.
+
 **Dizüstü bilgisayarınız için çanta veya kılıf kullanın:** Herhangi bir sırt çantasından bahsetmiyorum, dizüstü bilgisayarınız için özel bir çanta veya kılıf cihazınızın temiz kalmasını sağlayacaktır. En azından bilgisayarınızın olduğu kompanentte başka bir şey koymamaya özen gösterebilirsiniz.
+
 **Ekran koruyucu kullanın:** Dizüstü bilgisayarınıza ekran koruyucu uygulamak özellikle çiziklere karşı cihazınızın ekranını koruyacaktır.
+
 **Yüzey kaplaması kullanın:** Ülkemizde pek yaygın olmasa da yurtdışından kolaylıkla getirtebileceğiniz yüzey koruma malzemeleri veya kılıfları cihazınızın dışını da çiziklere karşı koruyacaktır.
 
