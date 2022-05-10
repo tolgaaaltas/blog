@@ -25,7 +25,7 @@ Elbette solüsyon hazırlamak bir süreçtir, peki hızlı bir şekilde ekranın
 
 Tıpkı izopropil alkol solüsyonu hazırlar gibi sirkeyi seyreltmemiz gerekecek. Yukarıdaki rehbere henüz göz atmadıysanız kısaca özetleyeyim; 70ml sirkeye 30ml temiz içme suyu ekleyip mikrofiber beze nemlendirecek şekilde uygulayın. Ardından ekranda daireler çizerek ekranınızı temizlemeyi sürdürün.
 
-## Dizüstü bilgisayarınızın klavyesini temizleme
+## Dizüstü bilgisayarınızın klavyesini temizleme yöntemi
 Ekrandan sonra muhtemelen en çok etkileşime geçtiğimiz araçların başında klavye yer alıyordur. İnsanın doğası gereği fiziksel temasın büyük çoğunluğunu ellerini ve parmaklarını kullanarak gerçekleştiriyor. Bu nedenle klavyenin kirlenmesi oldukça kolay bir hale geliyor. Ancak kirli bir klavyeye temas etmek de bir o kadar insanı rahatsız eden bir durumdur.
 
 Klavye temizliğini gerçekleştirirken herhangi bir kimyasal kullanmamaya özen gösterin. Klavyenizin üzerindeki harfler farklı üreticiler tarafından farklı yöntemlerle uygulanırlar, bu nedenle bir kısmının üretim yöntemi kimyasal yoluyla çıkmaya uygun olabilir.
