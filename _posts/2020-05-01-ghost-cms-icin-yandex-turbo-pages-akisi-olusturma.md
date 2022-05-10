@@ -12,7 +12,8 @@ Ancak Yandex'in Turbo Pages özelliği genellikle Avrupa ve Amerika bölgelerind
 ## Kurulum
 Kurulum için öncelikle temamızın dosyaları arasına yeni bir dosya daha eklememiz gerekiyor. Bunun için öncelikle Ghost paneline gidelim, Settings altında bulunan Design sekmesinde yer alan Installed Themes'de yer alan kullandığımız temayı indirelim. Tema dosyalarımızın içerisinde turbo.hbs adlı bir dosya oluşturalım ve içerisine aşağıdaki kodları ekleyelim;
 
-[Kodu görüntülemek için tıklayın](https://public.beamapp.co/tolgaaaltas/hoF7D6QmGQ3b41mpME1UpL)
+[Kodu görüntülemek için tıklayın](https://codepen.io/tolgaaaltas/pen/eYVZxRg)
+
 Dipçe: Kodu sayfaya gömemedim çünkü Jekyll markdown code olarak eklesem de kodu render ediyor.
 
 Temel olarak aslında Alexey'in hazırladığı ile hemen hemen aynı. Ama biz dilin otomatik tanımlanmasını sağlayan küçük bir düzeltme yaptık. Alexey ayrıca filtreleme için kendi İngilizce gönderine göre bir düzenleme yapmıştı, biz tüm gönderileri kapsaması için küçük bir düzenleme yaptık. Bir de ben öne çıkan görsellerin de gözükmesi için çok küçük bir ekleme daha yaptım kodda. Daha sonra Excerpt kısmının RSS'te gözükmediğini fark ederek içeriğin bütünlüğünün bozulmaması amacıyla bu kısmı da ekledim. Kısaca Kartashev bize Custom RSS için güzel bir şablon oluşturmuş ama pek çok eskikliği içerisinde barındırıyordu. Bizim yaşadığımız en büyük sorun ise dil bilgisi ile beraber tarih formatının da Türkçe'ye dönüşmesiydi ki bu RSS'in doğrulanmasında hata yaratıyordu. Bu nedenle `<pubDate>{{date format="ddd, DD MMM YYYY HH:mm:ss ZZ"}}</pubDate>` kısmını silmeniz gerekebilir. Ayrıca 12. ve 13. satırlardaki Google ve Yandex servislerine ait takip kodlarını da değiştirmeyi unutmayın. Ardından düzenlemiş olduğunuz dosyayı kaydedin ve Ghost'a yükleyin.
