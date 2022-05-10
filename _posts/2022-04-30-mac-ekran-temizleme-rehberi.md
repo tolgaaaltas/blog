@@ -42,7 +42,7 @@ Ekranınız lekelerden arındığında mikrofiber bezin kuru kısmıyla veya iki
 
 Nano dokulu cam siliyorsanız ekranınızı yalnızca kuru bir mikrofiber bezle veya Apple’ın Parlatma Bezi ile silmeniz gerekir. Eğer gerçekten başa çıkmakta zorlandığınız bir leke varsa %70 izopropil alkol ile bezinizi nemlendirip bölgeyi temizlemeye devam edebilirsiniz.
 
-## Mac ekranınızı uzun süre temiz tutun (olabildiğinde uzun)
+## Mac ekranınızı uzun süre temiz tutun (olabildiğinde uzun)
 Üzücü haber; Mac ekranınız uzun süre temiz kalmayacak. İyi haber ise daha uzun süre temiz tutabilmeniz için bazı yöntemler var.
 
 Önerebileceğim en önemli şey, cihazınızın ekranını seviyorsanız yakınlarında gıda tüketmeyin. Yemek yerken istemeden de olsa tükürük veya yemek parçaları ekrana gelebilir. Bu klavye ve farenizi de temiz tutmak için kendinize yapabileceğiniz en iyi yöntem. Bir diğeri ise cihazınızın etrafında asitli içecekler içmeyin, siz her ne kadar cihazınızdan uzakta bardağınızı koysanız da asitli içeceklerdeki asitler bardaktan fütursuzca dışarı sıçradığında ekranınızı da hedef alıyorlar. Bu da size kısa süreler içerisinde ekranınızı tekrar temizlemeye zorluyor.
