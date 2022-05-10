@@ -20,7 +20,7 @@ Ekranı temizlemek aslında oldukça kolay bir yöntemdir. Hazır ekran temizlem
 </aside>
 
 
-## Kendi temzilik solüsyonunuzu yapın 
+## Kendi temizlik solüsyonunuzu yapın 
 Elbette solüsyon hazırlamak bir süreçtir, peki hızlı bir şekilde ekranınızı temizlemek istediğinizde ne olacak? Bu gayet anlaşılabilir bir durum. Sonuçta pek çoğunuzun evinde izopropil alkol bulunmamakta, ancak bunun yerine geçici bir çözüm ile ekranınızı hemen temizleyebilirsiniz. Bu nedenle izopropil alkol yerine sirke kullanmak da dizüstü bilgisayarınızın ekran temizliği için size harika sonuç verecektir.
 
 Tıpkı izopropil alkol solüsyonu hazırlar gibi sirkeyi seyreltmemiz gerekecek. Yukarıdaki rehbere henüz göz atmadıysanız kısaca özetleyeyim; 70ml sirkeye 30ml temiz içme suyu ekleyip mikrofiber beze nemlendirecek şekilde uygulayın. Ardından ekranda daireler çizerek ekranınızı temizlemeyi sürdürün.
