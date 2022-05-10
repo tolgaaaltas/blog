@@ -9,6 +9,11 @@ Pages’te, Word’de veya VSCode’da temiz bir sayfa açtığınızda ekranın
 
 MacBook ve iMac’lerin ekranları diğer bilgisayarlara göre farklı materyaller kullanılarak yapılmışlardır. Bu nedenle onları temiz tutmak için geleneksel bilgisayarınızda eskiden kullandığınız çözümleri takip etmeniz pek işe yaramayacaktır. Bu nedenle rehberde yer alan temizlik adımlarını takip ederek Mac’inizin ekranını temizleyebilirsiniz.
 
+<aside>
+{% assign post = site.posts | where:"slug", "laptop-temizlik-rehberi" | first %}
+{% include featured.html post=post %}
+</aside>
+
 ## Mac’inizin ekranını temizlemeye başlamadan önce
 Mac’inizin ekranını temizlemeye başlamadan önce ekranınızın türünü bilmeniz gerekmektedir. Kokmayın, bu rehber size hangi tür ekrana sahip olduğunuzu tespit etmenizde de yardımcı olacak. Böylece doğru methodu cihazınıza uygulayabilirsiniz.
 
