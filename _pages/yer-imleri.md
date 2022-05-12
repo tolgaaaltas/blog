@@ -20,7 +20,7 @@ Bu sayfada hem kendim için hem de takipçilerim için faydalı olabileceğini d
 - [manojVivek/medium-unlimited](https://github.com/manojVivek/medium-unlimited)
 - [beam](https://beamapp.co)
 - [Reflect](https://reflect.app/home)
-- [Startup3](https://designmodo.com/startup/app/)
+- [Startup 3](https://designmodo.com/startup/app/)
 
 ## Nisan 2022
 - [Pigmnts](https://pigmnts.web.app/)
