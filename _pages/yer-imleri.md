@@ -34,42 +34,45 @@ Bu sayfada hem kendim için hem de takipçilerim için faydalı olabileceğini d
 <details>
   <summary>2021 yılı yer imleri</summary>
 
-## Aralık 2021
-- [Customizing Colors - Tailwind 3](https://tailwindcss.com/docs/customizing-colors)
+<h2 id="aral-k-2021">Aralık 2021</h2>
+<ul>
+<li><a href="https://tailwindcss.com/docs/customizing-colors">Customizing Colors - Tailwind 3</a></li>
+</ul>
+<h2 id="ekim-2021">Ekim 2021</h2>
+<ul>
+<li><a href="https://www.awwwards.com/">Awwwards</a></li>
+<li><a href="https://www.siteinspire.com/">Siteinspire</a></li>
+<li><a href="https://collectui.com/">Collect UI</a></li>
+<li><a href="https://mobbin.design/">Mobbin Design</a></li>
+<li><a href="https://www.uplabs.com/">UpLabs</a></li>
+<li><a href="https://scrnshts.club/">Scrnshts</a></li>
+<li><a href="https://ecomm.design/">ecomm.design</a></li>
+<li><a href="https://www.lapa.ninja/">lapa.ninja</a></li>
+<li><a href="https://siiimple.com/">Siiimple</a></li>
+<li><a href="https://land-book.com/">Land Book</a></li>
+<li><a href="https://animatedbackgrounds.me/">Animated Backgrounds</a></li>
+<li><a href="https://twake.app/">Twake</a></li>
+<li><a href="https://www.epicons.co/">Epicons</a></li>
+<li><a href="https://collected.jonaspelzer.com/">Collected</a></li>
+<li><a href="https://www.meshgradients.com/">Mesh Gradients</a></li>
+<li><a href="https://3dicons.co/">3dicons</a></li>
+<li><a href="https://doodleipsum.com/">Doodle Ipsum</a></li>
+<li><a href="https://draculatheme.com/">Dracula Theme</a></li>
+</ul>
+<h2 id="eyl-l-2021">Eylül 2021</h2>
+<ul>
+<li><a href="http://mcg.mbitson.com/">Material Design Theme &amp; Palette Color Generator</a></li>
+<li><a href="https://hakim.se">Hakim El Hattab</a></li>
+<li><a href="https://www.shapefest.com">Shapefest</a></li>
+<li><a href="https://workmanlayout.org">Workman Keyboard Layout</a></li>
+<li><a href="https://www.typingstudy.com/tr-turkish_q-2/">Typing Study</a></li>
+</ul>
+<h2 id="a-ustos-2021">Ağustos 2021</h2>
+<ul>
+<li><a href="https://www.dmarcanalyzer.com/bimi/how-to-create-a-bimi-record/">How to create a BIMI record</a></li>
+<li><a href="https://www.grillitype.com">Grilli Type</a></li>
+<li><a href="https://farkli-dusun.simplecast.com/">Farklı Düşün</a></li>
+</ul>
 
-## Ekim 2021
-- [Awwwards](https://www.awwwards.com/)
-- [Siteinspire](https://www.siteinspire.com/)
-- [Collect UI](https://collectui.com/)
-- [Mobbin Design](https://mobbin.design/)
-- [UpLabs](https://www.uplabs.com/)
-- [Scrnshts](https://scrnshts.club/)
-- [ecomm.design](https://ecomm.design/)
-- [lapa.ninja](https://www.lapa.ninja/)
-- [Siiimple](https://siiimple.com/)
-- [Land Book](https://land-book.com/)
-- [Animated Backgrounds](https://animatedbackgrounds.me/)
-- [Twake](https://twake.app/)
-- [Epicons](https://www.epicons.co/)
-- [Collected](https://collected.jonaspelzer.com/)
-- [Mesh Gradients](https://www.meshgradients.com/)
-- [3dicons](https://3dicons.co/)
-- [Doodle Ipsum](https://doodleipsum.com/)
-- [Dracula Theme](https://draculatheme.com/)
-
-## Eylül 2021
-
-- [Material Design Theme & Palette Color Generator](http://mcg.mbitson.com/)
-- [Hakim El Hattab](https://hakim.se)
-- [Shapefest](https://www.shapefest.com)
-- [Workman Keyboard Layout](https://workmanlayout.org)
-- [Typing Study](https://www.typingstudy.com/tr-turkish_q-2/)
-
-
-## Ağustos 2021
-
-- [How to create a BIMI record](https://www.dmarcanalyzer.com/bimi/how-to-create-a-bimi-record/)
-- [Grilli Type](https://www.grillitype.com)
-- [Farklı Düşün](https://farkli-dusun.simplecast.com/)
 
 </details>
