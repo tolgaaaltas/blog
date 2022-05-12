@@ -34,7 +34,7 @@ Bu sayfada hem kendim için hem de takipçilerim için faydalı olabileceğini d
 <details>
   <summary>2021 yılı yer imleri</summary>
 
-<h2 id="aral-k-2021">Aralık 2021</h2>
+<h2 id="aralik-2021">Aralık 2021</h2>
 <ul>
 <li><a href="https://tailwindcss.com/docs/customizing-colors">Customizing Colors - Tailwind 3</a></li>
 </ul>
@@ -59,7 +59,7 @@ Bu sayfada hem kendim için hem de takipçilerim için faydalı olabileceğini d
 <li><a href="https://doodleipsum.com/">Doodle Ipsum</a></li>
 <li><a href="https://draculatheme.com/">Dracula Theme</a></li>
 </ul>
-<h2 id="eyl-l-2021">Eylül 2021</h2>
+<h2 id="eylul-2021">Eylül 2021</h2>
 <ul>
 <li><a href="http://mcg.mbitson.com/">Material Design Theme &amp; Palette Color Generator</a></li>
 <li><a href="https://hakim.se">Hakim El Hattab</a></li>
@@ -67,7 +67,7 @@ Bu sayfada hem kendim için hem de takipçilerim için faydalı olabileceğini d
 <li><a href="https://workmanlayout.org">Workman Keyboard Layout</a></li>
 <li><a href="https://www.typingstudy.com/tr-turkish_q-2/">Typing Study</a></li>
 </ul>
-<h2 id="a-ustos-2021">Ağustos 2021</h2>
+<h2 id="agustos-2021">Ağustos 2021</h2>
 <ul>
 <li><a href="https://www.dmarcanalyzer.com/bimi/how-to-create-a-bimi-record/">How to create a BIMI record</a></li>
 <li><a href="https://www.grillitype.com">Grilli Type</a></li>
