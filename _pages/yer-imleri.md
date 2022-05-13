@@ -23,6 +23,7 @@ Bu sayfada hem kendim için hem de takipçilerim için faydalı olabileceğini d
 - [Startup 3](https://designmodo.com/startup/app/)
 - [Noun Project](https://thenounproject.com)
 - [Tweetic](https://www.tweetic.io)
+- [The Ultimate French Press Technique](https://www.youtube.com/watch?v=st571DYYTR8)
 
 ## Nisan 2022
 - [Pigmnts](https://pigmnts.web.app/)
