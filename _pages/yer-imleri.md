@@ -26,6 +26,7 @@ Bu sayfada hem kendim için hem de takipçilerim için faydalı olabileceğini d
 - [The Ultimate French Press Technique](https://www.youtube.com/watch?v=st571DYYTR8)
 - [Material Symbols](https://www.figma.com/community/plugin/1088610476491668236/Material-Symbols)
 - [Melon](https://melonapp.com)
+- [Framer](https://www.framer.com)
 
 ## Nisan 2022
 - [Pigmnts](https://pigmnts.web.app/)
