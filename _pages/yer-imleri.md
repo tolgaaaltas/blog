@@ -4,6 +4,7 @@ title: Yer imleri
 permalink: "/yer-imleri/"
 redirect_from:
   - /yer-imleri.html/
+image: assets/images/yer-imleri.jpg
 ---
 # Yer imleri
 
