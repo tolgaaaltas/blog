@@ -7,6 +7,8 @@ tags: [ wwf market ]
 ---
 WWF Market'ten ne kadar mutlu olduğumu zaten kendileri ile ilgili yazdığım [bir önceki yazımda](/wwf-market-urun-ve-alisveris-deneyimlerim/) bahsetmiştim. Ürünlerin sürdürülebilir olarak tamamen Türkiye'de üretilmesi bir yana, satın alımlarınızdan elde edilen kârın %40'ının [WWF Türkiye](https://www.wwf.org.tr/)'ye aktarılması da önemli bir satın alma tercihi oluşturuyor. En azından kuru kuruya iyi bir ürün almanın yanı sıra satın alımınızın sonucunda vakfın da yararına bir kısım ayrılması tüketici açısından tercih edilebilirliği iyice arttırıyor.
 
+[WWF Market %15 indirim kodu](http://wwfmarket.refr.cc/tolgaaltas){: class="button"}
+
 2020 Yaz Avustralya Serisi ürünlerinden ben yalnızca [t-shirt](https://wwfmarket.com/collections/t-shirt) aldım, ancak koleksiyonda [Bandana](https://wwfmarket.com/collections/bandana), [çanta](https://wwfmarket.com/collections/canta-1), [marata](https://wwfmarket.com/collections/matara), [havlu](https://wwfmarket.com/collections/havlu), [anahtarlık ve pin](http://web.archive.org/web/20201030044333/https://wwfmarket.com/collections/anahtarlik-pin) olduğunu da unutmayın. Özellikle çanta kategorisinde yer alan ürünler pek çok hanımefendi ve beyfendi için kullanışlı duyuruyor. Aynı şekilde tatil hazırlığında bulunan tüketiciler için havlu ürün grubu da güzel seçeneklere sahip.
 
 Bu yazımı da bir önceki yazıda olduğu gibi ürünler ve alışveriş olarak iki başlıkta hazırlayacağım. Bu, gelen bir çok geribildirimde olumlu bir format olarak değerlendirildiği için değiştirmemeyi uygun gördüm.
