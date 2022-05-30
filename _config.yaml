@@ -27,7 +27,6 @@ plugins:
   - jekyll-paginate
   - jekyll-redirect-from
   - jekyll-sitemap
-  - jekyll-seo-tag
 
 paginate: 7
 paginate_path: "/archive/:num/"
