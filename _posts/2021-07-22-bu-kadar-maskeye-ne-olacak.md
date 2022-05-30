@@ -26,4 +26,4 @@ Maskelerinizi mümkün olduğu kadar plastik geri dönüşüm kutularına atmaya
 
 Tek kullanımlık maske yerine yıkanabilir maske kullanmayı tercih edebilirsiniz. Bu ürünlerin COVID-19’a karşı korumalı olduğunu doğrulayamam, bunun için üreticiler ile iletişime geçebilir veya doktorunuza danışabilirsiniz. Ancak [WWF Market](https://wwfmarket.com/collections/maske), [Amnesty Store](https://amnestystore.com/collections/maske) gibi uygun fiyatlı yerlerden yıkanabilir maske satın alabilir veya [XD-Design](https://urun.n11.com/yikanabilir-maske/xd-design-koruyucu-maske-seti-siyah-P458646146)’ın Nano Fiber filtreli maskelerinden satın alabilirsiniz.
 
-[WWF Market %15 indirim kodu](http://wwfmarket.refr.cc/tolgaaltas){: class="button"}
+[Tüm ürünlerde geçerli WWF Market %15 indirim kodu](http://wwfmarket.refr.cc/tolgaaltas){: class="button"}

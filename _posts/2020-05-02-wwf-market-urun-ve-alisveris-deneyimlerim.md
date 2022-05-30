@@ -8,7 +8,7 @@ tags: [ featured, wwf market ]
 
 WWF Market'ten oldukça memnun olmamın iki sebebi var, ürünleri çok güzel ve alışveriş esnasında sizinle kurdukları iletişim gerçekten hızlı. Bu nedenle [Reflect Studio](https://www.reflectstudio.com/) tarafından üretilen bu ürünleri sizlere de tanıtmak istiyorum.
 
-[WWF Market %15 indirim kodu](http://wwfmarket.refr.cc/tolgaaltas){: class="button"}
+[Tüm ürünlerde geçerli WWF Market %15 indirim kodu](http://wwfmarket.refr.cc/tolgaaltas){: class="button"}
 
 ## Ürünler
 WWF Market'i sanırım ilk defa geçen yıl görmüştüm ancak ürünleri her ne kadar beğensem de öncelikli harcamalarım farklı olduğu için alışveriş yapma fırsatı elde edememiştim. Bu durum ise yeni yılın ardından Şubat ayı itibariyle gerçekleştirdikleri PANDA20 kampanyası ile değişti. O dönemde [WWF Logo Serisi](https://wwfmarket.com/collections/wwf-logo/WWF-LOGO) ürünlerinde bu kod ile alışveriş yapana %20 indirim yapıyorlardı ve ben de bir süredir denemek istediğim için ilk alışverişimi gerçekleştirdim. Satın aldıklarım arasında [WWF Etiketli Sweatshirt](https://wwfmarket.com/products/wwf-etiketli-sweatshirt) ve [WWF Sweatshirt](https://wwfmarket.com/products/wwf-sweatshirt) modelleri mevcuttu. Ürünleri UPS Kargo aralıcılığ ile gönderdiler. UPS Kargo seçimleri hakkında da sürdürülebilirlik açısından bir güzel taraf, taşımacılıkta kullandıkları poşetler, geri dönüştürülmüş plastik atıklardan üretiliyor. Bu tercih de markanın ve vakfın aslında tüm hassasiyetine uygun.
