@@ -5,6 +5,8 @@ permalink: "/yer-imleri/"
 redirect_from:
   - /yer-imleri.html/
 ---
+# Yer imleri
+
 Bu sayfada hem kendim için hem de takipçilerim için faydalı olabileceğini düşündüğüm çeşitli internet sitelerini listeliyor olacağım. Tarayıcı üzerinde yer imlerini sıklıkla kullanan birisi değilim, ancak internet sitesi üzerinde bunları saklayabileceğimi düşünüyorum. Yer imleri haricinde izlediğim filmleri veya dinlediğim müzikleri yalnızca Vero üzerinden paylaşıyorum, eğer onlara göz atmak isterseniz sayfanın sonundaki alandan Vero hesbıma ulaşabilirsiniz.
 
 
