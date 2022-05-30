@@ -30,6 +30,7 @@ Bu sayfada hem kendim için hem de takipçilerim için faydalı olabileceğini d
 - [Material Symbols](https://www.figma.com/community/plugin/1088610476491668236/Material-Symbols)
 - [Melon](https://melonapp.com)
 - [Framer](https://www.framer.com)
+- [Mac Mouse Fix](https://mousefix.org)
 
 ## Nisan 2022
 - [Pigmnts](https://pigmnts.web.app/)
