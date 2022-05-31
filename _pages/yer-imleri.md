@@ -31,6 +31,13 @@ Bu sayfada hem kendim için hem de takipçilerim için faydalı olabileceğini d
 - [Melon](https://melonapp.com)
 - [Framer](https://www.framer.com)
 - [Mac Mouse Fix](https://mousefix.org)
+- [tailwind.ws](https://tailwind.ws)
+- [Quokka](https://www.quokkahr.com)
+- [Levuro](https://levuro.com)
+- [Tweet Sweeper](https://tweetsweeper.app)
+- [Folio.ink](https://folio.ink)
+- [Dualo](https://www.dualo.io)
+- [Depix](https://depix.ai)
 
 ## Nisan 2022
 - [Pigmnts](https://pigmnts.web.app/)
