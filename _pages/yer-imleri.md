@@ -13,7 +13,7 @@ Bu sayfada hem kendim için hem de takipçilerim için faydalı olabileceğini d
 
 ---
 ## Haziran 2022
-- [https://www.youtube.com/channel/UC4B_JQOp6E1NrqMamZpuZxA](Gurmoss)
+- [Gurmoss](https://www.youtube.com/channel/UC4B_JQOp6E1NrqMamZpuZxA)
 - [Vero - Social media with all art, none of ads](https://uk.pcmag.com/social-media/140663/vero)
 
 ## Mayıs 2022
