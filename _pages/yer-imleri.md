@@ -38,6 +38,7 @@ Bu sayfada hem kendim için hem de takipçilerim için faydalı olabileceğini d
 - [Folio.ink](https://folio.ink)
 - [Dualo](https://www.dualo.io)
 - [Depix](https://depix.ai)
+- [https://www.youtube.com/channel/UC4B_JQOp6E1NrqMamZpuZxA](Gurmoss)
 
 ## Nisan 2022
 - [Pigmnts](https://pigmnts.web.app/)
