@@ -16,6 +16,7 @@ Bu sayfada hem kendim için hem de takipçilerim için faydalı olabileceğini d
 - [Gurmoss](https://www.youtube.com/channel/UC4B_JQOp6E1NrqMamZpuZxA)
 - [Vero - Social media with all art, none of ads](https://uk.pcmag.com/social-media/140663/vero)
 - [E-Commerce UX Design Benchmark](https://baymard.com/ux-benchmark)
+- [Kagi](https://kagi.com)
 
 ## Mayıs 2022
 - [Bu Kelime Yok](https://bukelimeyok.com)
