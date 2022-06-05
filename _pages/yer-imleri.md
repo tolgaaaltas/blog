@@ -17,6 +17,7 @@ Bu sayfada hem kendim için hem de takipçilerim için faydalı olabileceğini d
 - [Vero - Social media with all art, none of ads](https://uk.pcmag.com/social-media/140663/vero)
 - [E-Commerce UX Design Benchmark](https://baymard.com/ux-benchmark)
 - [Kagi](https://kagi.com)
+- [How did Tropicana lose $30 million in a packaging redesign?](https://bootcamp.uxdesign.cc/how-did-tropicana-lose-30-million-in-a-packaging-redesign-53d30a1e2b3a)
 
 ## Mayıs 2022
 - [Bu Kelime Yok](https://bukelimeyok.com)
