@@ -18,6 +18,10 @@ Bu sayfada hem kendim için hem de takipçilerim için faydalı olabileceğini d
 - [E-Commerce UX Design Benchmark](https://baymard.com/ux-benchmark)
 - [Kagi](https://kagi.com)
 - [How did Tropicana lose $30 million in a packaging redesign?](https://bootcamp.uxdesign.cc/how-did-tropicana-lose-30-million-in-a-packaging-redesign-53d30a1e2b3a)
+- [Reform.app](https://www.reform.app)
+- [Magical](https://www.getmagical.com)
+- [Web Page Design](https://webpagedesign.io)
+- [Loople](https://www.loopple.com/templates)
 
 ## Mayıs 2022
 - [Bu Kelime Yok](https://bukelimeyok.com)
