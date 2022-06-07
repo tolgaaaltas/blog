@@ -22,6 +22,7 @@ Bu sayfada hem kendim için hem de takipçilerim için faydalı olabileceğini d
 - [Magical](https://www.getmagical.com)
 - [Web Page Design](https://webpagedesign.io)
 - [Loople](https://www.loopple.com/templates)
+- [Beta Profiles](https://betaprofiles.com)
 
 ## Mayıs 2022
 - [Bu Kelime Yok](https://bukelimeyok.com)
