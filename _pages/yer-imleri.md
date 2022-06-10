@@ -25,6 +25,7 @@ Bu sayfada hem kendim için hem de takipçilerim için faydalı olabileceğini d
 - [Beta Profiles](https://betaprofiles.com)
 - [Recuresive Design](https://www.recursive.design)
 - [FUJI X WEEKLY](https://fujixweekly.com)
+- [PaceKit](https://pacekit.co)
 
 ## Mayıs 2022
 - [Bu Kelime Yok](https://bukelimeyok.com)
