@@ -11,7 +11,7 @@ Fotoğraf endüstrisinin büyük gelir kapılarından bir tanesi olan stok foto�
 ## Stok Fotoğraf nedir?
 Stok fotoğraf genellikle lisanslı görsellerin belirli çerçevelerde kullanılabilmesi için satın alınan kullanım hakkıdır. Temelde 1920’lerde yaygınlaşmaya başlayan bu model, kendi içerisinde de bazı gruplara ayrılmaktadır. Macrostock, midstock ve microstock olarak ayrılan stock fotoğrafçılık her geçen gün daha fazla talep görmektedir. Geleneksel stok fotoğraf ajansları tek bir görsel için birkaç yüz veya birkaç bin dolar ödeme yapabilirken mikro stock fotoğrafçılığında bu 25 cent’e kadar düşebiliyor. Günümüzde de micro stok fotoğrafçılık arttığından dolayı çevrimiçi dünyada stok görsellerde ciddi bir rekabet bulunmaktadır.
 
-Günümüzde ücretli mikro stok fotoğraf pazarını domine eden [iStockPhoto](https://www.istockphoto.com), [Dreamstime](https://www.dreamstime.com), [Can Stok Photo](https://www.canstockphoto.com), [Shutterstock](https://www.shutterstock.com) ve [Adobe Stock](https://stock.adobe.com) gibi pek çok internet sitesi bulunmaktadır. Ancak bu siteler ücretli olması nedeniyle ve Türk lirasının pek çok popüler para birimi karşısındaki değeri göz önüne alındığında küçük ajanslar veya kendini geliştirmek isteyenler için kabul edilemeyecek derecede pahalı olmaktadırlar. Tabi stok fotoğrafların sadece profesyonel amaçla kullanıldığını düşünmek hata olur, eğer okul sunumlarınızda veya sanat projelerinizde de fotoğraflara ihtiyacınız varsa stok görsel kullanımı işlerinizi kolaylaştıracaktır.
+Günümüzde ücretli mikro stok fotoğraf pazarını domine eden [iStockPhoto](https://www.istockphoto.com/), [Dreamstime](https://www.dreamstime.com/), [Can Stok Photo](https://www.canstockphoto.com/), [Shutterstock](https://www.shutterstock.com/) ve [Adobe Stock](https://stock.adobe.com/) gibi pek çok internet sitesi bulunmaktadır. Ancak bu siteler ücretli olması nedeniyle ve Türk lirasının pek çok popüler para birimi karşısındaki değeri göz önüne alındığında küçük ajanslar veya kendini geliştirmek isteyenler için kabul edilemeyecek derecede pahalı olmaktadırlar. Tabi stok fotoğrafların sadece profesyonel amaçla kullanıldığını düşünmek hata olur, eğer okul sunumlarınızda veya sanat projelerinizde de fotoğraflara ihtiyacınız varsa stok görsel kullanımı işlerinizi kolaylaştıracaktır.
 
 ## Ücretsiz Stok Fotoğraf Siteleri
 Eğer bir freelancer veya küçük bir ajans iseniz ekstra maliyetler ile karınızı azaltmak istemeyeceksinizdir. Bu nedenle ücretli stok fotoğraflar satın almak yerine ücretsizleri tercih edebilirsiniz. Bu sayede çalışmalarınız hem profesyonel gözükecektir hem de kar marjınız azalmayacaktır.
@@ -26,7 +26,7 @@ Unsplash amatör ruhu desteklediğinden dolayı profesyonel bir fotoğraf makina
 
 Unsplash’in en büyük artısı ise kurumların da bu platforma ücretsiz stok fotoğraf yükleyebiliyor olmaları. Bu stok fotoğrafa ihtiyaç duyanlar için de, o fotoğrafı Unsplash’e yükleyen için de kazan-kazan demek oluyor. Örneğin bilgisayar kullanan birine ait bir stok fotoğrafa ihtiyacınız var, bu durumda Microsoft’un hem [Surface](https://unsplash.com/@surface) hem de [Windows](https://unsplash.com/@windows) hesaplarını inceleyerek pek çok farklı bilgisayar kullanan kişi görseline erişebilirsiniz. Firmalar bu ücretsiz stok fotoğrafları platforma yüklerken elbette ürünlerini doğru şekilde konumlandırmaya çalışıyorlar. Fotoğraflara dikkat ettiğinizde ışık, kompozisyon ve ürünler ortamdan kolayca ayrışabiliyor. Bu da özellikle ürün odaklı stok fotoğraf arayanların ihtiyacını karşılayan bir durum.
 
-[Unsplash'e göz atın](https://unsplash.com){: class="button"}
+[Unsplash'e göz atın](https://unsplash.com/){: class="button"}
 
 ### Pexels
 ![Pexels](/assets/images/pexels.png)
@@ -34,7 +34,7 @@ Unsplash gibi içerik üreticiler tarafından üretilen ve listelenen fotoğrafl
 
 Pexels’in bir diğer önemli özelliği ise Türkçe dil desteğine sahip olması. Fotoğrafı yükleyen kişi anahtar kelimeleri kendi ana dilinde yazsa bile sayfayı siz Türkçe görüntülüyor ve Türkçe olarak arama yapıyorsanız yine sizi sonuçlarla buluşturuyor. Özellikle dil engeli olan kullanıcılar tarafından da tercih edilebilmesini sağlayan önemli bir özellik.
 
-[Pexels'e göz atın](https://pexels.com){: class="button"}
+[Pexels'e göz atın](https://pexels.com/){: class="button"}
 
 ### Pixabay
 ![Pixabay](/assets/images/pixabay.png)
@@ -42,7 +42,7 @@ Her geçen listede platformlara yeni bir kütüphane parçası daha ekleniyor gi
 
 Diğer servislerin yanı sıra görsel & resim kütüphanesi yalnızca fotoğraf değil aynı zamanda vektörel grafik ve illüstrasyon da barındırmakta. Ajansınız veya sunumunuz için fotoğraftan fazlasına ihtiyaç duyuyorsanız Pixabay muhtemelen size 360 derece ücretsiz çözüm sunacaktır.
 
-[Pixabay'e göz atın](https://pixabay.com){: class="button"}
+[Pixabay'e göz atın](https://pixabay.com/){: class="button"}
 
 ### Burst
 ![Burst](/assets/images/burst.png)
@@ -58,7 +58,7 @@ Fotoğraf ve video kütüphanesinin yanı sıra Foca Stock sunduğu grafik şabl
 
 Elbette bir Adobe Photoshop kadar etkin bir araç olduğunu düşünmeyin, Canva tarzı basit seçeneklerle iyi bir görsel hazırlama aracına ihtiyacınız varsa bunu Canva olmadan Foca üzerinden de yapabileceğinizi bilmek sizi ekstra bir harcamadan kurtarabilir. Foca Stock’un graphic template kütüphanesi zengin olsa da düzenleme aracı oldukça basit olduğu için başlangıçta ihtiyaçlarınıza yanıt verebilir.
 
-[Foca Stock'a göz atın](https://focastock.com){: class="button"}
+[Foca Stock'a göz atın](https://focastock.com/){: class="button"}
 
 ### Moose
 ![Moose](/assets/images/moose.png)
@@ -66,7 +66,7 @@ Temelde bir icons8 servisi olan Moose, özellikle model kullanılmış ücretsiz
 
 Tabi Moose da yalnızca modeller üzerine kurulmuş bir ücretsiz fotoğraf kütüphanesi değil, bunun haricinde içerisinde tüm ihtiyaçlarınızı karşılayabilecek fotoğraf seçenekleri de bulunuyor. Özellikle stüdyo çekimi kalitesinde fotoğraflar sunmasıyla öne çıkan Moose’a göz atmayı kaçırmamanızı tavsiye ederim.
 
-[Moose'a göz atın](https://https://icons8.com/photos){: class="button"}
+[Moose'a göz atın](https://icons8.com/photos/){: class="button"}
 
 ## Ücretsiz stok fotoğraf, video ve müzik kütüphaneleri
 Yukarıda yer alan listeyi inceleyerek yeni başlayanlar veya herhangi bir harcama yapmak istemeyenler için hiçbir harcama yapmadan stock içeriklere hangi siteler aracılığı ile erişilebileceğini göstermiş oldum. Umarım yukarıda yer alan internet siteleri, konu hakkındaki ihtiyacınızı girebilmiştir.
