@@ -20,7 +20,7 @@ Google Ads’e yeni bir anahtar kelime eklediğinizde her bir anahtar kelime iç
 
 Siz anahtar kelime belirleyicisi olduğunuz için “ayakkabılar” anahtar kelimesini geniş eşleşme kullanarak reklam grubunuza eklediniz. Stoğunuzda şu anda kadınlar için mavi spor ayakkabı ve erkekler için ise kahverengi rugan ayakkabı bulunuyor. Ben de potansiyel bir müşteri olarak trekking ayakkabısı almak için internette arama yapıyorum. Yukarıdaki örnekten yola çıkarak siz reklam grubunuza her ne kadar “ayakkabı” anahtar kelimesini girmiş olsanız da onu geniş eşleşmeli girdiğiniz için ben “trekking ayakkabısı” şeklinde arama yaptığımda Google bana reklamınızı gösterecektir. Ben bu reklama tıkladım ve açılış sayfanızı (Ianding page) görüntüledim. Ancak sizin satış envanterinizde benim aramış olduğum modelde ürün olmadığı için hemen geri döndüm.
 
-![Google Ads'de geniş eşleşmeli anahtar kelimeler kullanmayın](/assets/images/google-ads.webp)
+![Google Ads'de geniş eşleşmeli anahtar kelimeler kullanmayın](/assets/images/google-ads-broad-match.webp)
 
 Peki ne şimdi ne oldu? Tıklama başına maliyetli bir reklam kampanyanız olduğu için ben reklamı görerek tıkladım, bu size maliyet olarak geri döndü. Ancak açılış sayfasında aradığım ürünü bulamadığım için hızlıca geri çıktım. Bu da size yüksek çıkma oranı (bounce rate) olarak geri döndü. Hem maliyetiniz arttı hem de metrikleriniz kötüleşti. Unutmayın, Google Ads yalnızca para ve anahtar kelimeler ile çalışmıyor. Tag Manager, Analytics ve Search Console gibi pek çok aracı bağladığınızda bu servisler arasında veri paylaşımı da gerçekleştiriyor. Bu nedenle çıkma oranının artması açılış sayfası kalitesini düşürerek reklam performansınızı da olumsuz yönde etkiliyor.
 
