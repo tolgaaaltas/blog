@@ -7,7 +7,7 @@ description: Pay Per Click hesaplarda yapılan en sık hatalardan birisi tüm an
 ---
 Google arama sonuçlarına dayalı reklamlar oldukça önemlidir, eğer ulaşmaya çalıştığınız tüketicilerin sizi nasıl bulduklarını bilirseniz… Ürününüzün tüketiciler tarafından nasıl arandığını biliyorsanız reklam kampanyalarınızda geniş eşleşme kullanmaya bir daha asla ihtiyaç duymayabilirsiniz.
 
-Geniş eşleşme türü, Google Ads’deki varsayılan anahtar kelime eşleşme türüdür ve Google Ads öneriler veya Google Ads destek personelleri size genellikle geniş eşleşme kullanmanızı tavsiye eder. Pek çok yeni başlayan için geniş eşleşmeli anahtar kelime kullanmak tercih nedenidir, çünkü varsayılan yöntemdir.
+Geniş eşleşme türü, Google Ads’deki varsayılan anahtar kelime eşleşme türüdür. Google Ads öneriler veya Google Ads destek personelleri size genellikle geniş eşleşme kullanmanızı tavsiye eder. Pek çok yeni başlayan için geniş eşleşmeli anahtar kelime kullanmak tercih nedenidir, çünkü varsayılan yöntemdir.
 
 ## Geniş Eşleşme nedir?
 Google Ads’e yeni bir anahtar kelime eklediğinizde her bir anahtar kelime için bir eşleşme türü seçmeniz gerekmektedir. Ads’de toplam dört adet eşleşme türü bulunmaktadır:
