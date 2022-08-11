@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Tıklama başına maliyette neden asla (çoğunlukla) geniş eşleşmeli anahtar kelimeler kullanmamalısınız??"
+title:  "Tıklama başına maliyette neden asla (çoğunlukla) geniş eşleşmeli anahtar kelimeler kullanmamalısınız?"
 tags: [ google ads ]
 image: assets/images/genis-eslesme.webp
 description: Pay Per Click hesaplarda yapılan en sık hatalardan birisi tüm anahtar kelimeleri geniş eşleşme kullanmaktır. Peki neden reklamlarınızda çoğunlukla geniş eşleşmeli anahtar kelimeler kullanmamalısınız?
