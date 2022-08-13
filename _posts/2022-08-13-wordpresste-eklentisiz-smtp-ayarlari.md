@@ -17,7 +17,7 @@ Bu rehberdeki iki adımı gerçekleştirerek WP Mail SMTP eklentisi veya benzer 
 Şimdi hangi belgelere erişmeniz gerektiğini açıkladığıma göre FTP veya SSH üzerinden **wp-config.php**'yi düzenlemeye başlayalım;
 
 ### wp-config.php için E-posta ayarlarını tanımlama
-1. **wp-config.php belgesini açın.**
+1. **wp-config.php** belgesini açın.
 2. Şu satırı bulun:
 ```
 /* Thats all, stop editing! Happy blogging. */
