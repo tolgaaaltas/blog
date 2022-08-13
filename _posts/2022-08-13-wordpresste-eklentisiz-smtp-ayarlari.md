@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "WordPress'e WP Mail SMTP eklentisini yüklemeden SMTP ile nasıl ileti gönderirim?"
+title:  "WordPress'de WP Mail SMTP eklentisini yüklemeden SMTP ile nasıl ileti gönderirim?"
 tags: [ wordpress ]
 image: assets/images/wp-smtp.webp
 description: WordPress ile bir site kurduğunuzda iletişim formu veya bülten araçlarının çalışması için mutlaka bir ileti gönderim yöntemi belirlemelisiniz. İşte bu gönderide WordPress için SMTP ayarlarını eklentisiz nasıl yapacağınızı anlatacağım.
