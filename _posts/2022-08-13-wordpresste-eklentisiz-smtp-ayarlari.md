@@ -19,9 +19,12 @@ Bu rehberdeki iki adımı gerçekleştirerek WP Mail SMTP eklentisi veya benzer 
 ### wp-config.php için E-posta ayarlarını tanımlama
 1. **wp-config.php belgesini açın.**
 2. Şu satırı bulun:
-```/* Thats all, stop editing! Happy blogging. */```
+```
+/* Thats all, stop editing! Happy blogging. */
+```
 3. Üstüne ekleyin:
-`// SMTP e-posta ayarları
+```
+// SMTP e-posta ayarları
 define( 'SMTP_USER', 'kullaniciadi@alanadi.com' ); // SMTP için kullanılacak elektronik posta adresi
 define( 'SMTP_PASS', 'sifreniz' ); // Üst satırda belirlediğiniz elektronik posta adresinin şifresi
 define( 'SMTP_HOST', 'smtp.servissaglayici.com' ); // SMTP servis sağlayıcınız
@@ -30,7 +33,7 @@ define( 'SMTP_NAME', 'Gönderen Adı' ); // İletilerde görünecek isim veya ku
 define( 'SMTP_PORT', '587' ); // Port bilgisi (genellikle 587)
 define( 'SMTP_SECURE', 'tls' ); // Güvenlik (genellikle tls)
 define( 'SMTP_AUTH', true );
-`
+```
 4. Belgeyi kaydedin ve pencereyi kapatın.
 
 Çok güzel. SMTP servis sağlayıcı bilgilerimizi girip belgeyi kayıt ettikten sonra artık ilk adımı tamamlamış oluyoruz. Eğer yukarıdaki alanlarda hangi bilgileri dolduracağınızı bilmiyorsanız servis sağlayıcınız ile iletişime geçerek bilgileri alabilirsiniz.
@@ -44,7 +47,8 @@ Temanızın functions.php belgesini doğrudan düzenleyebilirsiniz ancak bu her 
 2. Sol menüde yer alan Görünüm > Tema Dosya Düzenleyicisi sayfasını açın.
 3. Gelen pencereden Child temanızın seçili olduğundan emin oldun. Ardından sağ kısımda bulunan **functions.php** belgesini açın.
 4. Aşağıdaki kodu ekleyin:
-`// SMTP ile ileti gönder
+```
+// SMTP ile ileti gönder
 add_action( 'phpmailer_init', 'my_phpmailer_orn' );
 function my_phpmailer_orn( $phpmailer ) {
     $phpmailer->isSMTP();     
@@ -56,7 +60,8 @@ function my_phpmailer_orn( $phpmailer ) {
     $phpmailer->SMTPSecure = SMTP_SECURE;
     $phpmailer->From = SMTP_FROM;
     $phpmailer->FromName = SMTP_NAME;
-}`
+}
+```
 5. Belgeyi kaydedin ve kapatın.
 
 Burada yaptığımız şey temelde ```phpmailer_init``` işlevini geçersiz kılarak ```my_phpmailer_orn``` adlı bir işlev oluşturmaktır. wp-config.php dosyasında tanımladığımız PHP değişkenlerini burada kullandık. Bu şekilde web sitemizde kullandığımız başka bir eklenti de (Örn. Contact Form 7 veya Elementor Forms) burada tanımladığımız SMTP ayarlarını kullanabilecek.
