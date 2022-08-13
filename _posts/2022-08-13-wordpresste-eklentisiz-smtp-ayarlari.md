@@ -43,7 +43,7 @@ define( 'SMTP_AUTH', true );
 ### functions.php içindeki phpmailer_init işlevini geçersiz kılalım
 Temanızın functions.php belgesini doğrudan düzenleyebilirsiniz ancak bu her tema güncellemesi ile beraber burada bahsedilen değişikliği yeniden yapmanız anlamına gelir. Eğer WordPress için Child tema kullanmıyorsanız bu sizin için tekrar eden bir süreç olacaktır. Ancak Child tema kurulumunuzu en başından yaptıysanız arkanıza yaslanın ve Child temanızın functions.php belgesini düzenlemenin keyfini çıkartın.
 
-1. ```wp-admin```'e giderek sitenizin yönetim panelini açın ve giriş yapın.
+1. `wp-admin`'e giderek sitenizin yönetim panelini açın ve giriş yapın.
 2. Sol menüde yer alan Görünüm > Tema Dosya Düzenleyicisi sayfasını açın.
 3. Gelen pencereden Child temanızın seçili olduğundan emin oldun. Ardından sağ kısımda bulunan **functions.php** belgesini açın.
 4. Aşağıdaki kodu ekleyin:
@@ -64,6 +64,6 @@ function my_phpmailer_orn( $phpmailer ) {
 ```
 5. Belgeyi kaydedin ve kapatın.
 
-Burada yaptığımız şey temelde ```phpmailer_init``` işlevini geçersiz kılarak ```my_phpmailer_orn``` adlı bir işlev oluşturmaktır. wp-config.php dosyasında tanımladığımız PHP değişkenlerini burada kullandık. Bu şekilde web sitemizde kullandığımız başka bir eklenti de (Örn. Contact Form 7 veya Elementor Forms) burada tanımladığımız SMTP ayarlarını kullanabilecek.
+Burada yaptığımız şey temelde phpmailer_init işlevini geçersiz kılarak `my_phpmailer_orn` adlı bir işlev oluşturmaktır. wp-config.php dosyasında tanımladığımız PHP değişkenlerini burada kullandık. Bu şekilde web sitemizde kullandığımız başka bir eklenti de (Örn. Contact Form 7 veya Elementor Forms) burada tanımladığımız SMTP ayarlarını kullanabilecek.
 
 Eğer SMTP bilgilerinizi doğru girdiyseniz ve tüm kodları doğru bir şekilde yerleştirdiyseniz herhangi bir eklentiye ihtiyaç duymadan WordPress sitenizle SMTP kullanarak elektronik posta gönderimi gerçekleştirebileceksiniz.
