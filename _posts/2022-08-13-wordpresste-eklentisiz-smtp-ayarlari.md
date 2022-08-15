@@ -41,7 +41,12 @@ define( 'SMTP_AUTH', true );
 ![Google Ads'de geniş eşlemeli anahtar kelimeler kullanmayın](/assets/images/wordpress-smtp-mail.webp)
 
 ### functions.php içinden phpmailer_init işlevini geçersiz kılalım
-Temanızın functions.php belgesini doğrudan düzenleyebilirsiniz ancak bu her tema güncellemesi ile beraber burada bahsedilen değişikliği yeniden yapmanız gerektiği anlamına gelir. Eğer WordPress için Child tema kullanmıyorsanız bu sizin için tekrar eden bir süreç olacaktır. Ancak Child tema kurulumunuzu en başından yaptıysanız arkanıza yaslanın ve Child temanızın functions.php belgesini düzenlemenin keyfini çıkartın.
+Temanızın functions.php belgesini doğrudan düzenleyebilirsiniz ancak bu her tema güncellemesi ile beraber burada bahsedilen değişikliği yeniden yapmanız gerektiği anlamına gelir. Eğer WordPress için Child tema kullanmıyorsanız bu sizin için tekrar eden bir süreç olacaktır. Ancak Child tema kurulumunuzu en başından yaptıysanız arkanıza yaslanın ve Child temanızın functions.php belgesini düzenlemenin keyfini çıkartın. Eğer child temanız yoksa nasıl yapacağınızı da aşağıda yer alan önce çıkan yazıda açıkladım.
+
+<aside>
+{% assign post = site.posts | where:"slug", "wordpress-child-tema-yapimi" | first %}
+{% include featured.html post=post %}
+</aside>
 
 1. `wp-admin`'e giderek sitenizin yönetim panelini açın ve giriş yapın.
 2. Sol menüde yer alan Görünüm > Tema Dosya Düzenleyicisi sayfasını açın.
