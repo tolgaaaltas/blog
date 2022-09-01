@@ -12,6 +12,9 @@ Bu sayfada hem kendim için hem de takipçilerim için faydalı olabileceğini d
 
 
 ---
+## Eylül 2022
+- [Open color](https://yeun.github.io/open-color/)
+
 ## Haziran 2022
 - [Gurmoss](https://www.youtube.com/channel/UC4B_JQOp6E1NrqMamZpuZxA)
 - [Vero - Social media with all art, none of ads](https://uk.pcmag.com/social-media/140663/vero)
