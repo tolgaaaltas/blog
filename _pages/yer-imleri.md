@@ -29,7 +29,7 @@ Bu sayfada hem kendim için hem de takipçilerim için faydalı olabileceğini d
 - [Recuresive Design](https://www.recursive.design)
 - [FUJI X WEEKLY](https://fujixweekly.com)
 - [PaceKit](https://pacekit.co)
-- [https://spline.design](Spline)
+- [Spline](https://spline.design)
 
 ## Mayıs 2022
 - [Bu Kelime Yok](https://bukelimeyok.com)
