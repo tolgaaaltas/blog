@@ -15,6 +15,11 @@ Bu sayfada hem kendim için hem de takipçilerim için faydalı olabileceğini d
 ## Ekim 2022
 - [Transactional Email Templates](https://postmarkapp.com/transactional-email-templates)
 - [Mindfully curated color palettes](https://access.mymind.com/colors)
+- [When life gives you lemons, write better error messages](https://wix-ux.com/when-life-gives-you-lemons-write-better-error-messages-46c5223e1a2f)
+- [75% of the Time We Spend With Our Kids in Our Lifetime Will Be Spend By Age 12](https://www.1000hoursoutside.com/blog/time-with-kids-before-age-12)
+- [Unipak Bant Yapıştırmalı Zarf Kutu](https://www.unipak.com.tr/kategori/zarf-tipi-koruklu-kutular)
+- [Community use of school facilities](https://www.education.wa.edu.au/community-use-of-school-facilities)
+- [Almanya'da 2 yıl](https://onur.dev/writing/almanyada-2-yil)
 
 ## Eylül 2022
 - [Open color](https://yeun.github.io/open-color/)
