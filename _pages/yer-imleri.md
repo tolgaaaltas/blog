@@ -14,6 +14,7 @@ Bu sayfada hem kendim için hem de takipçilerim için faydalı olabileceğini d
 ---
 ## Ekim 2022
 - [Transactional Email Templates](https://postmarkapp.com/transactional-email-templates)
+- [Mindfully curated color palettes](https://access.mymind.com/colors)
 
 ## Eylül 2022
 - [Open color](https://yeun.github.io/open-color/)
