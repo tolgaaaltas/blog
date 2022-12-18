@@ -12,6 +12,9 @@ Bu sayfada hem kendim için hem de takipçilerim için faydalı olabileceğini d
 
 
 ---
+## Aralık 2022
+- [Instagram Takip Etmeyenleri Takipten Çıkartma](https://cobanov.dev/instagram/)
+
 ## Ekim 2022
 - [Transactional Email Templates](https://postmarkapp.com/transactional-email-templates)
 - [Mindfully curated color palettes](https://access.mymind.com/colors)
