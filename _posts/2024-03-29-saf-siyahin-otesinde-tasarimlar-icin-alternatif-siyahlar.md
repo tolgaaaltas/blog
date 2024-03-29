@@ -20,6 +20,8 @@ Saf siyah yerine siyahın ötesindeki renkleri keşfetmek için farklı gerekçe
 ## Her tasarımda kullanılabilecek siyah renk alternatifleri
 Siyahın ötesine geçmek için önce siyah rengin çeşitliliğinin farkına varmalıyız. Elde etmek istediğiniz hissiyata göre renk kullanımında kendiniz karar sahibi olabilirsiniz.
 
+![Web tasarımda ve kullanıcı deneyiminde saf siyah renk alternatifleri](/assets/images/siyah-alternatif-renkler.webp "Web tasarımda ve kullanıcı deneyiminde saf siyah renk alternatifleri")
+
 - **Petrol siyahı (HEX: 0C0C0C, RGB: 12,12,12):** Eğer gerçekten siyaha takıntılı bir tasarım yapmak istiyorsanız, saf siyah yerine en iyi alternatif olarak petrol siyahını kullanabilirsiniz.
 - **Obsidyen (HEX: 0B1215, RGB: 11,18,21):** Tasarımınız koyu olsa da fazla boğucu olmasını istemediğiniz durumlarda obsidyen olarak kodlanan bu renk, tasarımınıza daha ferah bir his kazandıracaktır. Aynı zamanda tasarımı biraz daha dinamik klar.
 - **Gece (HEX: 121212, RGB: 18,28,28):** Gece, siyahınızın griye yeterince yaklaşmamış bir alternatifidir. Konrast yaratmak için hala yeterince güçlü derecede koyu bir tona sahip olsa da siyahla karşılaştırıldığında göze daha açık gelir.
