@@ -3,7 +3,7 @@ layout: post
 title:  "Tasarımlarda Saf Siyah Yerine Kullanabileceğiniz HEX Renk Kodları"
 tags:
   - tasarım
-image: assets/images/siyahin-otesi.webp
+image: assets/images/siyahin-otesinde.webp
 description: Saf siyahı hepimiz tasarımlarımızda kullanıyoruz. Peki ya saf siyahtan uzakşalarak tasarımlarınızı zenginleştirebileceğinizi söylesem? Yazıya göz atın.
 ---
 Hiç şüphesiz ki siyah ve beyazlar tasarımlarımızın birer parçası. Kullanımı çok cesur ve doğru oranı yakalamak her zaman kolay olmayan renkler. Web tasarımı ve kullanıcı deneyimi söz konusu olduğunda saf siyah (#000000) bazen çok keskin bir renk olabilir. Özellikle düşük ışıklı ortamlardaki kullanıcılar için okunabilirlik sorunlarına ve göz yorgunluğuna neden olabilen saf siyah için farklı alternatifleri bu yazıda bir araya getirdim.
