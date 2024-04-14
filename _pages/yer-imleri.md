@@ -16,6 +16,7 @@ Bu sayfada hem kendim için hem de takipçilerim için faydalı olabileceğini d
 - [Refero](https://refero.design)
 - [UI Colors](https://uicolors.app/create)
 - [AI Playground by Vercel AI SDK](https://sdk.vercel.ai)
+- [Free Faces](https://www.freefaces.gallery)
 
 ## Şubat 2023
 - [ScreenDump](https://screendump.techulus.com/)
