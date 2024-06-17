@@ -12,6 +12,9 @@ Bu sayfada hem kendim için hem de takipçilerim için faydalı olabileceğini d
 
 
 ---
+## Haziran 2024
+- [Ad Examples](https://www.magicdesign.io/ad-examples)
+
 ## Mart 2024
 - [Refero](https://refero.design)
 - [UI Colors](https://uicolors.app/create)
