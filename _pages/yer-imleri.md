@@ -12,6 +12,9 @@ Bu sayfada hem kendim için hem de takipçilerim için faydalı olabileceğini d
 
 
 ---
+## Temmuz 2024
+- [The Noun Project Icons](https://thenounproject.com/icons/)
+
 ## Haziran 2024
 - [Ad Examples](https://www.magicdesign.io/ad-examples)
 
