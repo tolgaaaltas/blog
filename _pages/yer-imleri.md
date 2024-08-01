@@ -13,13 +13,14 @@ Bu sayfada hem kendim için hem de takipçilerim için faydalı olabileceğini d
 
 ---
 ## Ağustos 2024
-- [https://mobbin.com](Mobbin)
-- [https://land-book.com](Land Book)
-- [https://godly.website](Godly Website)
-- [https://browsingmode.com/](Browsing Mode)
-- [https://maxibestof.one](Maxi Best of One)
-- [https://minimal.gallery](Minimal Gallery)
-- [https://curated.design](Curated Design)
+- [Mobbin](https://mobbin.com)
+- [Land Book](https://land-book.com)
+- [Godly Website](https://godly.website)
+- [Browsing Mode](https://browsingmode.com/)
+- [Maxi Best of One](https://maxibestof.one)
+- [Minimal Gallery](https://minimal.gallery)
+- [Curated Design](https://curated.design)
+- [Jamie Alonso](https://www.behance.net/jaimealonso)
 
 ## Temmuz 2024
 - [The Noun Project Icons](https://thenounproject.com/icons/)
