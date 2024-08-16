@@ -1,11 +1,11 @@
 ---
- layout: post
+layout: post
  title:  "Maymun Çiçeği Hastalığı: Nedir, Belirtileri ve Önleme"
- tags:
-   - sağlık
- image: assets/images/maymuncicegi.webp
- description: Türkçe'de Maymun Çiçeği Hastalığı olarak bilinen Monkeypox ve son olarak mpox olarak adlandırılan hastalığın ne olduğuna, belirtilerine ve tedavisine göz atın.
- ---
+tags:
+  - sağlık
+image: assets/images/maymuncicegi.webp
+description: Türkçe'de Maymun Çiçeği Hastalığı olarak bilinen Monkeypox ve son olarak mpox olarak adlandırılan hastalığın ne olduğuna, belirtilerine ve tedavisine göz atın.
+---
  Maymun çiçeği hastalığı, artık resmi olarak mpox olarak tanımlanmaktadır, belirgin bir döküntü dahil olmak üzere bir dizi semptoma neden olabilen nadir bir viral enfeksiyondur. Çiçek hastalığına benzer ancak genellikle daha az şiddetlidir. Tarihsel olarak öncelikle Orta ve Batı Afrika'da bulunsa da, son yıllarda dünyanın diğer bölgelerine de yayılmaktadır.
 
  Virüs, enfekte bir kişiyle, vücut sıvılarıyla veya kontamine malzemelerle yakın temas yoluyla bulaşır. Bu, döküntüyle doğrudan temas, solunum damlacıkları (daha az yaygın olsa da) veya yatak takımı veya giysi gibi kontamine eşyalarla temas yoluyla meydana gelebilir.
