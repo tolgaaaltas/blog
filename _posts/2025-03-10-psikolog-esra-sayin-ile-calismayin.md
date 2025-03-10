@@ -3,6 +3,7 @@ layout: post
 title:  "Dijital Pazarlamacılara Çağrı: Psikolog Esra Sayın ile Çalışmayın"
 tags:
   - tecrübe
+  - embargo
 image: assets/images/esrasayin.webp
 description: İstanbul'da hizmet veren İstanbul Psikolog Esra Sayın ile çalışmayı düşünen dijital pazarlama uzmanı arkadaşlarımız varsa bir kez daha düşünsün.
 ---
